@@ -1,0 +1,98 @@
+{
+    "packages": {
+        "gppackagist/bb-plugin-standard": {
+            "2.8.3.6": {
+                "name": "gppackagist/bb-plugin-standard",
+                "version": "2.8.3.6",
+                "version_normalized": "2.8.3.6",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/bb-plugin-standard.git",
+                    "reference": "e2a00a3ba1b36d3745c92287306acad63aa542e2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/bb-plugin-standard/zipball/e2a00a3ba1b36d3745c92287306acad63aa542e2",
+                    "reference": "e2a00a3ba1b36d3745c92287306acad63aa542e2",
+                    "shasum": ""
+                },
+                "time": "2024-09-20T19:29:35+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/bb-plugin-standard/tree/2.8.3.6",
+                    "issues": "https://github.com/gppackagist/bb-plugin-standard/issues"
+                }
+            },
+            "dev-main": {
+                "name": "gppackagist/bb-plugin-standard",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/bb-plugin-standard.git",
+                    "reference": "e2a00a3ba1b36d3745c92287306acad63aa542e2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/bb-plugin-standard/zipball/e2a00a3ba1b36d3745c92287306acad63aa542e2",
+                    "reference": "e2a00a3ba1b36d3745c92287306acad63aa542e2",
+                    "shasum": ""
+                },
+                "time": "2024-09-20T19:29:35+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/bb-plugin-standard/tree/2.8.3.6",
+                    "issues": "https://github.com/gppackagist/bb-plugin-standard/issues"
+                }
+            }
+        },
+        "gppackagist/gravityforms": {
+            "2.8.17": {
+                "name": "gppackagist/gravityforms",
+                "version": "2.8.17",
+                "version_normalized": "2.8.17.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/gravityforms.git",
+                    "reference": "87dfbc1c59a4a98faafa90316a1dfc2690ad6e93"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/gravityforms/zipball/87dfbc1c59a4a98faafa90316a1dfc2690ad6e93",
+                    "reference": "87dfbc1c59a4a98faafa90316a1dfc2690ad6e93",
+                    "shasum": ""
+                },
+                "time": "2024-09-20T19:08:52+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/gravityforms/tree/2.8.17",
+                    "issues": "https://github.com/gppackagist/gravityforms/issues"
+                }
+            },
+            "dev-main": {
+                "name": "gppackagist/gravityforms",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/gravityforms.git",
+                    "reference": "87dfbc1c59a4a98faafa90316a1dfc2690ad6e93"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/gravityforms/zipball/87dfbc1c59a4a98faafa90316a1dfc2690ad6e93",
+                    "reference": "87dfbc1c59a4a98faafa90316a1dfc2690ad6e93",
+                    "shasum": ""
+                },
+                "time": "2024-09-20T19:08:52+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/gravityforms/tree/2.8.17",
+                    "issues": "https://github.com/gppackagist/gravityforms/issues"
+                }
+            }
+        }
+    }
+}

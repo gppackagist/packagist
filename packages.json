@@ -1,12 +1,13 @@
 {
     "packages": [],
     "includes": {
-        "include/all$27996792ccfeceb28183c8af4c103423b6265e8c.json": {
-            "sha1": "27996792ccfeceb28183c8af4c103423b6265e8c"
+        "include/all$531b3fbf2a5c6d345587a96e0bbabd0b5596659b.json": {
+            "sha1": "531b3fbf2a5c6d345587a96e0bbabd0b5596659b"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
     "available-packages": [
+        "gppackagist/bb-plugin-standard",
         "gppackagist/gravityforms"
     ]
 }
