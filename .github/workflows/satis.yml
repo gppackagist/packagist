@@ -47,7 +47,7 @@ jobs:
       - name: Docker build
         run: |
           export COMPOSER_HOME="$HOME/.composer"
-          composer config -g github-oauth.github.com "${{ secrets.PACKAGE_ACCESS_TOKEN }}"
+          composer config -g github-oauth.github.com "${{ secrets.PRIVATE_PACKAGES_ACCESS_TOKEN }}"
           docker run --rm --init \
             --user $(id -u):$(id -g) \
             --volume $(pwd):/build \
