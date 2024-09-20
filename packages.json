@@ -1,0 +1,12 @@
+{
+    "packages": [],
+    "includes": {
+        "include/all$27996792ccfeceb28183c8af4c103423b6265e8c.json": {
+            "sha1": "27996792ccfeceb28183c8af4c103423b6265e8c"
+        }
+    },
+    "metadata-url": "/packagist/p2/%package%.json",
+    "available-packages": [
+        "gppackagist/gravityforms"
+    ]
+}
