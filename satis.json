@@ -1,0 +1,9 @@
+{
+    "name": "gppackagist/packagist",
+    "homepage": "https://gppackagist.github.io/packagist",
+    "repositories": [
+        { "type": "vcs", "url": "https://github.com/gppackagist/gravityforms.git" },
+        { "type": "vcs", "url": "https://github.com/gppackagist/bb-plugin-standard.git" }
+    ],
+    "require-all": true
+}

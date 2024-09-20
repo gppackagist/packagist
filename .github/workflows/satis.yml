@@ -1,0 +1,71 @@
+# @see https://github.com/ikselven/horde-satis.maintaina.com/blob/10030e3fbca81579dfd8ea2385d2291663b8bcbd/.github/workflows/horde-satis.yml
+name: Satis Build
+on:
+  workflow_call:
+  workflow_dispatch:
+  repository_dispatch:
+  push:
+    branches:
+      - main
+env:
+  BUILD_DIR: build
+
+concurrency:
+  group: build
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  builder:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Create composer.json
+        run: echo "{}" > composer.json
+
+      - name: Get Date
+        id: get-date
+        run: echo "date=$(/bin/date -u "+%F")" >> $GITHUB_OUTPUT
+
+      - name: Cache dependencies and build
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.composer
+            ${{ env.BUILD_DIR }}
+          key: ${{ runner.os }}-php-${{ steps.get-date.outputs.date }}
+          restore-keys: ${{ runner.os }}-php-
+
+      - name: Docker pull
+        run: docker pull composer/satis
+
+      - name: Docker build
+        run: |
+          export COMPOSER_HOME="$HOME/.composer"
+          composer config -g github-oauth.github.com "${{ secrets.PACKAGE_ACCESS_TOKEN }}"
+          docker run --rm --init \
+            --user $(id -u):$(id -g) \
+            --volume $(pwd):/build \
+            --volume "${COMPOSER_HOME}:/composer" \
+            composer/satis -vvv build /build/satis.json /build/${{ env.BUILD_DIR }} --no-interaction
+
+      - name: Git Diff
+        run: git diff
+
+      # - name: Publish to GitHub pages
+      #   run: |
+      #     rm composer.json
+      #     git checkout gh-pages
+      #     rm -rf include/*
+      #     cp -R ${{ env.BUILD_DIR }}/* .
+      #     rm -rf ${{ env.BUILD_DIR }}/
+      #     git config --global user.name "${GITHUB_ACTOR}"
+      #     git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+      #     git add .
+      #     git commit -m "Updated repository"
+      #     git push
