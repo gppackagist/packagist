@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "gppackagist/gravityformswebhooks": [
+            {
+                "name": "gppackagist/gravityformswebhooks",
+                "version": "1.5",
+                "version_normalized": "1.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/gravityformswebhooks.git",
+                    "reference": "14967a98edad9a0fae73237b06229ccdb0b7e884"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/gravityformswebhooks/zipball/14967a98edad9a0fae73237b06229ccdb0b7e884",
+                    "reference": "14967a98edad9a0fae73237b06229ccdb0b7e884",
+                    "shasum": ""
+                },
+                "time": "2024-09-27T18:08:17+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/gravityformswebhooks/tree/1.5"
+                }
+            }
+        ]
+    }
+}

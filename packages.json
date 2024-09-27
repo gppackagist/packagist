@@ -1,14 +1,15 @@
 {
     "packages": [],
     "includes": {
-        "include/all$81a902c5bc49ce85f9e298275862ac9b54e0b0c3.json": {
-            "sha1": "81a902c5bc49ce85f9e298275862ac9b54e0b0c3"
+        "include/all$2e94dcf6ceb2c499d995a36902cb38ded4e7e0c8.json": {
+            "sha1": "2e94dcf6ceb2c499d995a36902cb38ded4e7e0c8"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
     "available-packages": [
         "gppackagist/advanced-custom-fields-pro",
         "gppackagist/bb-plugin-standard",
-        "gppackagist/gravityforms"
+        "gppackagist/gravityforms",
+        "gppackagist/gravityformswebhooks"
     ]
 }
