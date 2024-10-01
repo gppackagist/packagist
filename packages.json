@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$2e94dcf6ceb2c499d995a36902cb38ded4e7e0c8.json": {
-            "sha1": "2e94dcf6ceb2c499d995a36902cb38ded4e7e0c8"
+        "include/all$752d714aa83e36c45ae3ec630cb157c8c9bd3fe4.json": {
+            "sha1": "752d714aa83e36c45ae3ec630cb157c8c9bd3fe4"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -10,6 +10,7 @@
         "gppackagist/advanced-custom-fields-pro",
         "gppackagist/bb-plugin-standard",
         "gppackagist/gravityforms",
+        "gppackagist/gravityformsturnstile",
         "gppackagist/gravityformswebhooks"
     ]
 }

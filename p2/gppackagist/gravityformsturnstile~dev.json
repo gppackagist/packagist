@@ -1,0 +1,29 @@
+{
+    "packages": {
+        "gppackagist/gravityformsturnstile": [
+            {
+                "name": "gppackagist/gravityformsturnstile",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/gravityformsturnstile.git",
+                    "reference": "8eff41d3556e95d84c191f6c9f50a3da1669197e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/gravityformsturnstile/zipball/8eff41d3556e95d84c191f6c9f50a3da1669197e",
+                    "reference": "8eff41d3556e95d84c191f6c9f50a3da1669197e",
+                    "shasum": ""
+                },
+                "time": "2024-10-01T01:34:29+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/gravityformsturnstile/tree/main",
+                    "issues": "https://github.com/gppackagist/gravityformsturnstile/issues"
+                }
+            }
+        ]
+    }
+}
