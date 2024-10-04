@@ -23,6 +23,28 @@
                     "issues": "https://github.com/gppackagist/advanced-custom-fields-pro/issues"
                 }
             },
+            "6.3.7": {
+                "name": "gppackagist/advanced-custom-fields-pro",
+                "version": "6.3.7",
+                "version_normalized": "6.3.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/advanced-custom-fields-pro.git",
+                    "reference": "2f845462f566544e732b57da6f2e24ebfcaf169c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/advanced-custom-fields-pro/zipball/2f845462f566544e732b57da6f2e24ebfcaf169c",
+                    "reference": "2f845462f566544e732b57da6f2e24ebfcaf169c",
+                    "shasum": ""
+                },
+                "time": "2024-10-04T04:28:24+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/advanced-custom-fields-pro/tree/6.3.7",
+                    "issues": "https://github.com/gppackagist/advanced-custom-fields-pro/issues"
+                }
+            },
             "dev-main": {
                 "name": "gppackagist/advanced-custom-fields-pro",
                 "version": "dev-main",
@@ -30,19 +52,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/advanced-custom-fields-pro.git",
-                    "reference": "a07c37e2805cf316200e5d1b87a9ba3de11fc16c"
+                    "reference": "2f845462f566544e732b57da6f2e24ebfcaf169c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/advanced-custom-fields-pro/zipball/a07c37e2805cf316200e5d1b87a9ba3de11fc16c",
-                    "reference": "a07c37e2805cf316200e5d1b87a9ba3de11fc16c",
+                    "url": "https://api.github.com/repos/gppackagist/advanced-custom-fields-pro/zipball/2f845462f566544e732b57da6f2e24ebfcaf169c",
+                    "reference": "2f845462f566544e732b57da6f2e24ebfcaf169c",
                     "shasum": ""
                 },
-                "time": "2024-09-20T19:58:53+00:00",
+                "time": "2024-10-04T04:28:24+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
-                    "source": "https://github.com/gppackagist/advanced-custom-fields-pro/tree/6.3.6",
+                    "source": "https://github.com/gppackagist/advanced-custom-fields-pro/tree/6.3.7",
                     "issues": "https://github.com/gppackagist/advanced-custom-fields-pro/issues"
                 }
             }
@@ -114,6 +136,28 @@
                     "issues": "https://github.com/gppackagist/bb-plugin-standard/issues"
                 }
             },
+            "2.8.4": {
+                "name": "gppackagist/bb-plugin-standard",
+                "version": "2.8.4",
+                "version_normalized": "2.8.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/bb-plugin-standard.git",
+                    "reference": "02d3d6922b624b7ce166e52ea6700e031ebe8300"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/bb-plugin-standard/zipball/02d3d6922b624b7ce166e52ea6700e031ebe8300",
+                    "reference": "02d3d6922b624b7ce166e52ea6700e031ebe8300",
+                    "shasum": ""
+                },
+                "time": "2024-10-04T04:28:13+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/bb-plugin-standard/tree/2.8.4",
+                    "issues": "https://github.com/gppackagist/bb-plugin-standard/issues"
+                }
+            },
             "dev-main": {
                 "name": "gppackagist/bb-plugin-standard",
                 "version": "dev-main",
@@ -121,19 +165,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/bb-plugin-standard.git",
-                    "reference": "3661da0252fffaf8775c012935f49c220dc09371"
+                    "reference": "02d3d6922b624b7ce166e52ea6700e031ebe8300"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/bb-plugin-standard/zipball/3661da0252fffaf8775c012935f49c220dc09371",
-                    "reference": "3661da0252fffaf8775c012935f49c220dc09371",
+                    "url": "https://api.github.com/repos/gppackagist/bb-plugin-standard/zipball/02d3d6922b624b7ce166e52ea6700e031ebe8300",
+                    "reference": "02d3d6922b624b7ce166e52ea6700e031ebe8300",
                     "shasum": ""
                 },
-                "time": "2024-10-02T04:28:25+00:00",
+                "time": "2024-10-04T04:28:13+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
-                    "source": "https://github.com/gppackagist/bb-plugin-standard/tree/2.8.3.8",
+                    "source": "https://github.com/gppackagist/bb-plugin-standard/tree/2.8.4",
                     "issues": "https://github.com/gppackagist/bb-plugin-standard/issues"
                 }
             }
