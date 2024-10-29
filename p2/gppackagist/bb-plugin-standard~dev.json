@@ -8,19 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/bb-plugin-standard.git",
-                    "reference": "54cb19d68798d8d22380aa59f1b4f4d2a266dd95"
+                    "reference": "a9b95605f0914b7e12c008710a56b9cbf4c7d200"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/bb-plugin-standard/zipball/54cb19d68798d8d22380aa59f1b4f4d2a266dd95",
-                    "reference": "54cb19d68798d8d22380aa59f1b4f4d2a266dd95",
+                    "url": "https://api.github.com/repos/gppackagist/bb-plugin-standard/zipball/a9b95605f0914b7e12c008710a56b9cbf4c7d200",
+                    "reference": "a9b95605f0914b7e12c008710a56b9cbf4c7d200",
                     "shasum": ""
                 },
-                "time": "2024-10-10T04:28:29+00:00",
+                "time": "2024-10-29T04:29:03+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
-                    "source": "https://github.com/gppackagist/bb-plugin-standard/tree/2.8.4.1",
+                    "source": "https://github.com/gppackagist/bb-plugin-standard/tree/2.8.4.3",
                     "issues": "https://github.com/gppackagist/bb-plugin-standard/issues"
                 }
             }
