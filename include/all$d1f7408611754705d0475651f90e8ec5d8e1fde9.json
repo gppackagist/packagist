@@ -334,6 +334,28 @@
                     "issues": "https://github.com/gppackagist/bb-plugin-standard/issues"
                 }
             },
+            "2.8.5.1": {
+                "name": "gppackagist/bb-plugin-standard",
+                "version": "2.8.5.1",
+                "version_normalized": "2.8.5.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/bb-plugin-standard.git",
+                    "reference": "455d52d116ba5d433e00b7814a8809c02af30bcc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/bb-plugin-standard/zipball/455d52d116ba5d433e00b7814a8809c02af30bcc",
+                    "reference": "455d52d116ba5d433e00b7814a8809c02af30bcc",
+                    "shasum": ""
+                },
+                "time": "2024-11-27T04:30:19+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/bb-plugin-standard/tree/2.8.5.1",
+                    "issues": "https://github.com/gppackagist/bb-plugin-standard/issues"
+                }
+            },
             "dev-main": {
                 "name": "gppackagist/bb-plugin-standard",
                 "version": "dev-main",
@@ -341,19 +363,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/bb-plugin-standard.git",
-                    "reference": "c42054bd9323630631d2eff5a6701992dd3668f7"
+                    "reference": "455d52d116ba5d433e00b7814a8809c02af30bcc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/bb-plugin-standard/zipball/c42054bd9323630631d2eff5a6701992dd3668f7",
-                    "reference": "c42054bd9323630631d2eff5a6701992dd3668f7",
+                    "url": "https://api.github.com/repos/gppackagist/bb-plugin-standard/zipball/455d52d116ba5d433e00b7814a8809c02af30bcc",
+                    "reference": "455d52d116ba5d433e00b7814a8809c02af30bcc",
                     "shasum": ""
                 },
-                "time": "2024-11-20T04:29:33+00:00",
+                "time": "2024-11-27T04:30:19+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
-                    "source": "https://github.com/gppackagist/bb-plugin-standard/tree/2.8.5",
+                    "source": "https://github.com/gppackagist/bb-plugin-standard/tree/2.8.5.1",
                     "issues": "https://github.com/gppackagist/bb-plugin-standard/issues"
                 }
             }
