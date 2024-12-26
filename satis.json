@@ -7,6 +7,7 @@
         { "type": "vcs", "url": "https://github.com/gppackagist/gravityformswebhooks.git" },
         { "type": "vcs", "url": "https://github.com/gppackagist/bb-plugin-standard.git" },
         { "type": "vcs", "url": "https://github.com/gppackagist/advanced-custom-fields-pro.git" }
+        { "type": "vcs", "url": "https://github.com/gppackagist/publishpress-revisions-pro.git" }
     ],
     "require-all": true
 }
