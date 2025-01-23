@@ -286,6 +286,28 @@
                     "source": "https://github.com/gppackagist/gravityforms/tree/2.9.2.2",
                     "issues": "https://github.com/gppackagist/gravityforms/issues"
                 }
+            },
+            {
+                "name": "gppackagist/gravityforms",
+                "version": "2.9.2.3",
+                "version_normalized": "2.9.2.3",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/gravityforms.git",
+                    "reference": "efc7726fe7c31035bd00c76f2aab0b540337ee40"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/gravityforms/zipball/efc7726fe7c31035bd00c76f2aab0b540337ee40",
+                    "reference": "efc7726fe7c31035bd00c76f2aab0b540337ee40",
+                    "shasum": ""
+                },
+                "time": "2025-01-23T04:27:53+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/gravityforms/tree/2.9.2.3",
+                    "issues": "https://github.com/gppackagist/gravityforms/issues"
+                }
             }
         ]
     }
