@@ -8,19 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/advanced-custom-fields-pro.git",
-                    "reference": "2deed614117851b9bb36df1e14fe0fba46e2310a"
+                    "reference": "5d773adcb7e7b40fcfd26504bd8c7ffebbf48387"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/advanced-custom-fields-pro/zipball/2deed614117851b9bb36df1e14fe0fba46e2310a",
-                    "reference": "2deed614117851b9bb36df1e14fe0fba46e2310a",
+                    "url": "https://api.github.com/repos/gppackagist/advanced-custom-fields-pro/zipball/5d773adcb7e7b40fcfd26504bd8c7ffebbf48387",
+                    "reference": "5d773adcb7e7b40fcfd26504bd8c7ffebbf48387",
                     "shasum": ""
                 },
-                "time": "2025-04-08T04:30:31+00:00",
+                "time": "2025-04-09T04:32:07+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
-                    "source": "https://github.com/gppackagist/advanced-custom-fields-pro/tree/6.4.0",
+                    "source": "https://github.com/gppackagist/advanced-custom-fields-pro/tree/6.4.0.1",
                     "issues": "https://github.com/gppackagist/advanced-custom-fields-pro/issues"
                 }
             }
