@@ -42,6 +42,27 @@
                 "support": {
                     "source": "https://github.com/gppackagist/gravityformswebhooks/tree/1.6.0"
                 }
+            },
+            {
+                "name": "gppackagist/gravityformswebhooks",
+                "version": "1.7.0",
+                "version_normalized": "1.7.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/gravityformswebhooks.git",
+                    "reference": "8393fd18686a1971935674c0c39a379bfb1695a6"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/gravityformswebhooks/zipball/8393fd18686a1971935674c0c39a379bfb1695a6",
+                    "reference": "8393fd18686a1971935674c0c39a379bfb1695a6",
+                    "shasum": ""
+                },
+                "time": "2025-04-12T04:24:51+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/gravityformswebhooks/tree/1.7.0"
+                }
             }
         ]
     }
