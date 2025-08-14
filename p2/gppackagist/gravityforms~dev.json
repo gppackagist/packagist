@@ -8,19 +8,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/gravityforms.git",
-                    "reference": "b3d6ea874b93eeeb1507a7cb1a32d01078442d87"
+                    "reference": "c7a8ed7ec5e557ca4e4e677a9f4267a87dcd26d9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/gravityforms/zipball/b3d6ea874b93eeeb1507a7cb1a32d01078442d87",
-                    "reference": "b3d6ea874b93eeeb1507a7cb1a32d01078442d87",
+                    "url": "https://api.github.com/repos/gppackagist/gravityforms/zipball/c7a8ed7ec5e557ca4e4e677a9f4267a87dcd26d9",
+                    "reference": "c7a8ed7ec5e557ca4e4e677a9f4267a87dcd26d9",
                     "shasum": ""
                 },
-                "time": "2025-08-12T04:37:07+00:00",
+                "time": "2025-08-14T04:38:08+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
-                    "source": "https://github.com/gppackagist/gravityforms/tree/2.9.15.1",
+                    "source": "https://github.com/gppackagist/gravityforms/tree/2.9.15.2",
                     "issues": "https://github.com/gppackagist/gravityforms/issues"
                 }
             }
