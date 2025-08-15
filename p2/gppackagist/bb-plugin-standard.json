@@ -484,6 +484,28 @@
                     "source": "https://github.com/gppackagist/bb-plugin-standard/tree/2.9.2.1",
                     "issues": "https://github.com/gppackagist/bb-plugin-standard/issues"
                 }
+            },
+            {
+                "name": "gppackagist/bb-plugin-standard",
+                "version": "2.9.3",
+                "version_normalized": "2.9.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/bb-plugin-standard.git",
+                    "reference": "c4bb093ba00ec188bdd030f24cc9d77e3f1b6bb7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/bb-plugin-standard/zipball/c4bb093ba00ec188bdd030f24cc9d77e3f1b6bb7",
+                    "reference": "c4bb093ba00ec188bdd030f24cc9d77e3f1b6bb7",
+                    "shasum": ""
+                },
+                "time": "2025-08-15T04:37:57+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/bb-plugin-standard/tree/2.9.3",
+                    "issues": "https://github.com/gppackagist/bb-plugin-standard/issues"
+                }
             }
         ]
     }
