@@ -22,7 +22,7 @@
                 "description": "Plugin name",
                 "homepage": "https://totalsuite.net/product/totalcontest",
                 "support": {
-                    "source": "https://github.com/gppackagist/totalcontest/tree/main",
+                    "source": "https://github.com/gppackagist/totalcontest/tree/2.9.1",
                     "issues": "https://github.com/gppackagist/totalcontest/issues"
                 }
             }

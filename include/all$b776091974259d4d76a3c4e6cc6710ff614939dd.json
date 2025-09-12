@@ -2141,6 +2141,30 @@
             }
         },
         "gppackagist/totalcontest": {
+            "2.9.1": {
+                "name": "gppackagist/totalcontest",
+                "version": "2.9.1",
+                "version_normalized": "2.9.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/totalcontest.git",
+                    "reference": "1bb9b7289cd69fc1c549202ede1e33d875c9746f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/totalcontest/zipball/1bb9b7289cd69fc1c549202ede1e33d875c9746f",
+                    "reference": "1bb9b7289cd69fc1c549202ede1e33d875c9746f",
+                    "shasum": ""
+                },
+                "time": "2025-09-12T20:55:58+00:00",
+                "type": "wordpress-plugin",
+                "description": "Plugin name",
+                "homepage": "https://totalsuite.net/product/totalcontest",
+                "support": {
+                    "source": "https://github.com/gppackagist/totalcontest/tree/2.9.1",
+                    "issues": "https://github.com/gppackagist/totalcontest/issues"
+                }
+            },
             "dev-main": {
                 "name": "gppackagist/totalcontest",
                 "version": "dev-main",
@@ -2162,7 +2186,7 @@
                 "description": "Plugin name",
                 "homepage": "https://totalsuite.net/product/totalcontest",
                 "support": {
-                    "source": "https://github.com/gppackagist/totalcontest/tree/main",
+                    "source": "https://github.com/gppackagist/totalcontest/tree/2.9.1",
                     "issues": "https://github.com/gppackagist/totalcontest/issues"
                 }
             }
