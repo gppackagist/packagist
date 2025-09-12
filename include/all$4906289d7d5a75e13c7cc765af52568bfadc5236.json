@@ -2140,6 +2140,33 @@
                 }
             }
         },
+        "gppackagist/totalcontest": {
+            "dev-main": {
+                "name": "gppackagist/totalcontest",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/totalcontest.git",
+                    "reference": "1bb9b7289cd69fc1c549202ede1e33d875c9746f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/totalcontest/zipball/1bb9b7289cd69fc1c549202ede1e33d875c9746f",
+                    "reference": "1bb9b7289cd69fc1c549202ede1e33d875c9746f",
+                    "shasum": ""
+                },
+                "time": "2025-09-12T20:55:58+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "Plugin name",
+                "homepage": "https://totalsuite.net/product/totalcontest",
+                "support": {
+                    "source": "https://github.com/gppackagist/totalcontest/tree/main",
+                    "issues": "https://github.com/gppackagist/totalcontest/issues"
+                }
+            }
+        },
         "publishpress/publishpress-revisions-pro": {
             "v3.5.16": {
                 "name": "publishpress/publishpress-revisions-pro",

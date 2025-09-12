@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$13ab0cc653f7630f5891eb69335aacc0a6800594.json": {
-            "sha1": "13ab0cc653f7630f5891eb69335aacc0a6800594"
+        "include/all$4906289d7d5a75e13c7cc765af52568bfadc5236.json": {
+            "sha1": "4906289d7d5a75e13c7cc765af52568bfadc5236"
         }
     },
     "metadata-url": "/packagist/p2/%package%.json",
@@ -12,6 +12,7 @@
         "gppackagist/gravityforms",
         "gppackagist/gravityformsturnstile",
         "gppackagist/gravityformswebhooks",
+        "gppackagist/totalcontest",
         "publishpress/publishpress-revisions-pro"
     ]
 }
