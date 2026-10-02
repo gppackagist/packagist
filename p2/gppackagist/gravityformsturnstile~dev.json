@@ -3,24 +3,45 @@
         "gppackagist/gravityformsturnstile": [
             {
                 "name": "gppackagist/gravityformsturnstile",
+                "version": "dev-github-app-token",
+                "version_normalized": "dev-github-app-token",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/gravityformsturnstile.git",
+                    "reference": "c65f40b85e6b110b96fdcc69e49a62180db32f0d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/gravityformsturnstile/zipball/c65f40b85e6b110b96fdcc69e49a62180db32f0d",
+                    "reference": "c65f40b85e6b110b96fdcc69e49a62180db32f0d",
+                    "shasum": ""
+                },
+                "time": "2026-10-02T23:41:32+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/gravityformsturnstile/tree/github-app-token"
+                }
+            },
+            {
+                "name": "gppackagist/gravityformsturnstile",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/gravityformsturnstile.git",
-                    "reference": "c29728951c72f2f3c9ebfab408783e38b5902a3d"
+                    "reference": "eda453a13445e1ecc7ad9f689eb7c91ceebb9d6a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/gravityformsturnstile/zipball/c29728951c72f2f3c9ebfab408783e38b5902a3d",
-                    "reference": "c29728951c72f2f3c9ebfab408783e38b5902a3d",
+                    "url": "https://api.github.com/repos/gppackagist/gravityformsturnstile/zipball/eda453a13445e1ecc7ad9f689eb7c91ceebb9d6a",
+                    "reference": "eda453a13445e1ecc7ad9f689eb7c91ceebb9d6a",
                     "shasum": ""
                 },
-                "time": "2025-04-23T04:29:51+00:00",
+                "time": "2026-02-20T05:19:23+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
-                    "source": "https://github.com/gppackagist/gravityformsturnstile/tree/1.4.0"
+                    "source": "https://github.com/gppackagist/gravityformsturnstile/tree/1.5.0"
                 }
             }
         ]
