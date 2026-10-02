@@ -41,17 +41,29 @@ jobs:
           key: ${{ runner.os }}-php-${{ steps.get-date.outputs.date }}
           restore-keys: ${{ runner.os }}-php-
 
+      - name: Mint private packages token
+        id: app-token
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ vars.PACKAGIST_APP_ID }}
+          private-key: ${{ secrets.PACKAGIST_APP_PRIVATE_KEY }}
+          owner: gppackagist
+
       - name: Docker pull
         run: docker pull composer/satis
 
+      # COMPOSER_AUTH instead of `composer config -g`, which would write the token into the cached ~/.composer
       - name: Docker build
+        env:
+          COMPOSER_AUTH: '{"github-oauth":{"github.com":"${{ steps.app-token.outputs.token }}"}}'
         run: |
-          export COMPOSER_HOME="$HOME/.composer"
-          composer config -g github-oauth.github.com "${{ secrets.PRIVATE_PACKAGES_ACCESS_TOKEN }}"
+          mkdir -p "$HOME/.composer"
+          rm -f "$HOME/.composer/auth.json"
           docker run --rm --init \
             --user $(id -u):$(id -g) \
             --volume $(pwd):/build \
-            --volume "${COMPOSER_HOME}:/composer" \
+            --volume "$HOME/.composer:/composer" \
+            --env COMPOSER_AUTH \
             composer/satis -vvv build /build/satis.json /build/${{ env.BUILD_DIR }} --no-interaction
 
       - name: Publish to GitHub pages
@@ -64,5 +76,4 @@ jobs:
           git config --global user.name "${GITHUB_ACTOR}"
           git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git add .
-          git commit -m "Updated repository"
-          git push
+          git diff --cached --quiet || { git commit -m "Updated repository" && git push; }
