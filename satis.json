@@ -9,7 +9,9 @@
         { "type": "vcs", "url": "https://github.com/gppackagist/advanced-custom-fields-pro.git" },
         { "type": "vcs", "url": "https://github.com/gppackagist/totalcontest.git" },
         { "type": "vcs", "url": "https://github.com/gppackagist/publishpress-revisions-pro.git" },
-        { "type": "vcs", "url": "https://github.com/gppackagist/publishpress-capabilities-pro.git" }
+        { "type": "vcs", "url": "https://github.com/gppackagist/publishpress-capabilities-pro.git" },
+        { "type": "vcs", "url": "https://github.com/gppackagist/sitepress-multilingual-cms.git" },
+        { "type": "vcs", "url": "https://github.com/gppackagist/wpml-string-translation.git" }
     ],
     "require-all": true
 }
