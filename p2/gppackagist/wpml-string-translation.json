@@ -1,0 +1,30 @@
+{
+    "packages": {
+        "gppackagist/wpml-string-translation": [
+            {
+                "name": "gppackagist/wpml-string-translation",
+                "version": "5.1.0",
+                "version_normalized": "5.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/wpml-string-translation.git",
+                    "reference": "cb8efdd1394d64812e57065967c7d4e51ef3a473"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/wpml-string-translation/zipball/cb8efdd1394d64812e57065967c7d4e51ef3a473",
+                    "reference": "cb8efdd1394d64812e57065967c7d4e51ef3a473",
+                    "shasum": ""
+                },
+                "time": "2026-10-03T13:26:55+00:00",
+                "type": "wordpress-plugin",
+                "description": "WPML String Translation",
+                "homepage": "https://wpml.org/",
+                "support": {
+                    "source": "https://github.com/gppackagist/wpml-string-translation/tree/5.1.0",
+                    "issues": "https://github.com/gppackagist/wpml-string-translation/issues"
+                }
+            }
+        ]
+    }
+}
