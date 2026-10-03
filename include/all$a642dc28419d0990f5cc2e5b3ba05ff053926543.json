@@ -778,15 +778,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/advanced-custom-fields-pro.git",
-                    "reference": "3b00389cde1ff0c894b9587cef41b8f0d14b3fbd"
+                    "reference": "45907b56743b6358c27dba2edee9f2995817da9c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/advanced-custom-fields-pro/zipball/3b00389cde1ff0c894b9587cef41b8f0d14b3fbd",
-                    "reference": "3b00389cde1ff0c894b9587cef41b8f0d14b3fbd",
+                    "url": "https://api.github.com/repos/gppackagist/advanced-custom-fields-pro/zipball/45907b56743b6358c27dba2edee9f2995817da9c",
+                    "reference": "45907b56743b6358c27dba2edee9f2995817da9c",
                     "shasum": ""
                 },
-                "time": "2026-10-03T03:29:56+00:00",
+                "time": "2026-10-03T12:02:06+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
@@ -1419,15 +1419,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/bb-plugin-standard.git",
-                    "reference": "854d66ff0647a7e9578b4db4108ea67948054284"
+                    "reference": "0d2dd8ce4241636a7a01a57b71712f78f8c2cb77"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/bb-plugin-standard/zipball/854d66ff0647a7e9578b4db4108ea67948054284",
-                    "reference": "854d66ff0647a7e9578b4db4108ea67948054284",
+                    "url": "https://api.github.com/repos/gppackagist/bb-plugin-standard/zipball/0d2dd8ce4241636a7a01a57b71712f78f8c2cb77",
+                    "reference": "0d2dd8ce4241636a7a01a57b71712f78f8c2cb77",
                     "shasum": ""
                 },
-                "time": "2026-10-03T03:30:06+00:00",
+                "time": "2026-10-03T12:02:16+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
@@ -3776,15 +3776,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/gravityforms.git",
-                    "reference": "08fd9dcc6d9167ffbcec64a71da8a4bbf544d503"
+                    "reference": "c958f347b85931c2e68c7a41e8f1fd584a173dac"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/gravityforms/zipball/08fd9dcc6d9167ffbcec64a71da8a4bbf544d503",
-                    "reference": "08fd9dcc6d9167ffbcec64a71da8a4bbf544d503",
+                    "url": "https://api.github.com/repos/gppackagist/gravityforms/zipball/c958f347b85931c2e68c7a41e8f1fd584a173dac",
+                    "reference": "c958f347b85931c2e68c7a41e8f1fd584a173dac",
                     "shasum": ""
                 },
-                "time": "2026-10-03T03:29:46+00:00",
+                "time": "2026-10-03T12:01:57+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
@@ -3906,15 +3906,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/gravityformsturnstile.git",
-                    "reference": "a5adb46f61859cff6d92864569258de2ec4d473e"
+                    "reference": "93c83f5d782aba2b637ea21f9718d88d4a6062cd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/gravityformsturnstile/zipball/a5adb46f61859cff6d92864569258de2ec4d473e",
-                    "reference": "a5adb46f61859cff6d92864569258de2ec4d473e",
+                    "url": "https://api.github.com/repos/gppackagist/gravityformsturnstile/zipball/93c83f5d782aba2b637ea21f9718d88d4a6062cd",
+                    "reference": "93c83f5d782aba2b637ea21f9718d88d4a6062cd",
                     "shasum": ""
                 },
-                "time": "2026-10-03T03:30:16+00:00",
+                "time": "2026-10-03T12:02:26+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
@@ -3993,15 +3993,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/gravityformswebhooks.git",
-                    "reference": "4f640156e0ae5ca93e4c59b971d3afda7bf3a375"
+                    "reference": "677cee59691f986eae7b16c9b61591caef7678db"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/gravityformswebhooks/zipball/4f640156e0ae5ca93e4c59b971d3afda7bf3a375",
-                    "reference": "4f640156e0ae5ca93e4c59b971d3afda7bf3a375",
+                    "url": "https://api.github.com/repos/gppackagist/gravityformswebhooks/zipball/677cee59691f986eae7b16c9b61591caef7678db",
+                    "reference": "677cee59691f986eae7b16c9b61591caef7678db",
                     "shasum": ""
                 },
-                "time": "2026-10-03T03:30:26+00:00",
+                "time": "2026-10-03T12:02:35+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
@@ -4041,21 +4041,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/publishpress-capabilities-pro.git",
-                    "reference": "42920b30c9f6b0220821411316127af413a09a4d"
+                    "reference": "5c420469960b5843fb6a26e6cbfa2f12d3fb5b68"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/publishpress-capabilities-pro/zipball/42920b30c9f6b0220821411316127af413a09a4d",
-                    "reference": "42920b30c9f6b0220821411316127af413a09a4d",
+                    "url": "https://api.github.com/repos/gppackagist/publishpress-capabilities-pro/zipball/5c420469960b5843fb6a26e6cbfa2f12d3fb5b68",
+                    "reference": "5c420469960b5843fb6a26e6cbfa2f12d3fb5b68",
                     "shasum": ""
                 },
-                "time": "2026-10-03T11:47:56+00:00",
+                "time": "2026-10-03T12:03:27+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "PublishPress Capabilities Pro",
                 "homepage": "https://publishpress.com/capabilities/",
                 "support": {
-                    "source": "https://github.com/gppackagist/publishpress-capabilities-pro/tree/2.52.0",
+                    "source": "https://github.com/gppackagist/publishpress-capabilities-pro/tree/main",
                     "issues": "https://github.com/gppackagist/publishpress-capabilities-pro/issues"
                 }
             }
@@ -4092,15 +4092,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/totalcontest.git",
-                    "reference": "b3c6f9142574653290e94872a70e1445684e5e90"
+                    "reference": "91d5206777d81971189ce52d6a427c2adb217bb4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/totalcontest/zipball/b3c6f9142574653290e94872a70e1445684e5e90",
-                    "reference": "b3c6f9142574653290e94872a70e1445684e5e90",
+                    "url": "https://api.github.com/repos/gppackagist/totalcontest/zipball/91d5206777d81971189ce52d6a427c2adb217bb4",
+                    "reference": "91d5206777d81971189ce52d6a427c2adb217bb4",
                     "shasum": ""
                 },
-                "time": "2026-10-03T03:30:55+00:00",
+                "time": "2026-10-03T12:03:06+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "Plugin name",
@@ -4240,21 +4240,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/publishpress-revisions-pro.git",
-                    "reference": "10a0fb0fb77093c29bc0604492d3786329ac5de9"
+                    "reference": "328d884bbb276094c19115073033d8d68e6192fa"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/publishpress-revisions-pro/zipball/10a0fb0fb77093c29bc0604492d3786329ac5de9",
-                    "reference": "10a0fb0fb77093c29bc0604492d3786329ac5de9",
+                    "url": "https://api.github.com/repos/gppackagist/publishpress-revisions-pro/zipball/328d884bbb276094c19115073033d8d68e6192fa",
+                    "reference": "328d884bbb276094c19115073033d8d68e6192fa",
                     "shasum": ""
                 },
-                "time": "2026-10-03T11:48:03+00:00",
+                "time": "2026-10-03T12:03:16+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "PublishPress Revisions Pro",
                 "homepage": "https://publishpress.com/revisionary/",
                 "support": {
-                    "source": "https://github.com/gppackagist/publishpress-revisions-pro/tree/4.1.0",
+                    "source": "https://github.com/gppackagist/publishpress-revisions-pro/tree/main",
                     "issues": "https://github.com/gppackagist/publishpress-revisions-pro/issues"
                 }
             }

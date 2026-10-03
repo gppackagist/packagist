@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/totalcontest.git",
-                    "reference": "b3c6f9142574653290e94872a70e1445684e5e90"
+                    "reference": "91d5206777d81971189ce52d6a427c2adb217bb4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/totalcontest/zipball/b3c6f9142574653290e94872a70e1445684e5e90",
-                    "reference": "b3c6f9142574653290e94872a70e1445684e5e90",
+                    "url": "https://api.github.com/repos/gppackagist/totalcontest/zipball/91d5206777d81971189ce52d6a427c2adb217bb4",
+                    "reference": "91d5206777d81971189ce52d6a427c2adb217bb4",
                     "shasum": ""
                 },
-                "time": "2026-10-03T03:30:55+00:00",
+                "time": "2026-10-03T12:03:06+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "Plugin name",

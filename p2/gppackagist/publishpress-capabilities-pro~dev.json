@@ -8,21 +8,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/publishpress-capabilities-pro.git",
-                    "reference": "42920b30c9f6b0220821411316127af413a09a4d"
+                    "reference": "5c420469960b5843fb6a26e6cbfa2f12d3fb5b68"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/publishpress-capabilities-pro/zipball/42920b30c9f6b0220821411316127af413a09a4d",
-                    "reference": "42920b30c9f6b0220821411316127af413a09a4d",
+                    "url": "https://api.github.com/repos/gppackagist/publishpress-capabilities-pro/zipball/5c420469960b5843fb6a26e6cbfa2f12d3fb5b68",
+                    "reference": "5c420469960b5843fb6a26e6cbfa2f12d3fb5b68",
                     "shasum": ""
                 },
-                "time": "2026-10-03T11:47:56+00:00",
+                "time": "2026-10-03T12:03:27+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "PublishPress Capabilities Pro",
                 "homepage": "https://publishpress.com/capabilities/",
                 "support": {
-                    "source": "https://github.com/gppackagist/publishpress-capabilities-pro/tree/2.52.0",
+                    "source": "https://github.com/gppackagist/publishpress-capabilities-pro/tree/main",
                     "issues": "https://github.com/gppackagist/publishpress-capabilities-pro/issues"
                 }
             }
