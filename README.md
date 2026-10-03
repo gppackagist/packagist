@@ -44,7 +44,7 @@ To rebuild the index by hand, run a mirror's Build workflow with `rebuild_index`
 
     | Name | Kind | Value |
     | --- | --- | --- |
-    | `PACKAGIST_APP_ID` | variable | the `gppackagist-satis` App ID |
+    | `PACKAGIST_APP_CLIENT_ID` | variable | the `gppackagist-satis` App client ID |
     | `PACKAGIST_APP_PRIVATE_KEY` | secret | the App's private key |
     | `LICENSE_KEY` (and any other inputs the vendor workflow needs) | secret | vendor licence |
 
