@@ -1,0 +1,31 @@
+{
+    "packages": {
+        "gppackagist/publishpress-capabilities-pro": [
+            {
+                "name": "gppackagist/publishpress-capabilities-pro",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/publishpress-capabilities-pro.git",
+                    "reference": "42920b30c9f6b0220821411316127af413a09a4d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/publishpress-capabilities-pro/zipball/42920b30c9f6b0220821411316127af413a09a4d",
+                    "reference": "42920b30c9f6b0220821411316127af413a09a4d",
+                    "shasum": ""
+                },
+                "time": "2026-10-03T11:47:56+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "PublishPress Capabilities Pro",
+                "homepage": "https://publishpress.com/capabilities/",
+                "support": {
+                    "source": "https://github.com/gppackagist/publishpress-capabilities-pro/tree/2.52.0",
+                    "issues": "https://github.com/gppackagist/publishpress-capabilities-pro/issues"
+                }
+            }
+        ]
+    }
+}

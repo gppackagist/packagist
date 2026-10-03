@@ -4009,6 +4009,57 @@
                 }
             }
         },
+        "gppackagist/publishpress-capabilities-pro": {
+            "2.52.0": {
+                "name": "gppackagist/publishpress-capabilities-pro",
+                "version": "2.52.0",
+                "version_normalized": "2.52.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/publishpress-capabilities-pro.git",
+                    "reference": "42920b30c9f6b0220821411316127af413a09a4d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/publishpress-capabilities-pro/zipball/42920b30c9f6b0220821411316127af413a09a4d",
+                    "reference": "42920b30c9f6b0220821411316127af413a09a4d",
+                    "shasum": ""
+                },
+                "time": "2026-10-03T11:47:56+00:00",
+                "type": "wordpress-plugin",
+                "description": "PublishPress Capabilities Pro",
+                "homepage": "https://publishpress.com/capabilities/",
+                "support": {
+                    "source": "https://github.com/gppackagist/publishpress-capabilities-pro/tree/2.52.0",
+                    "issues": "https://github.com/gppackagist/publishpress-capabilities-pro/issues"
+                }
+            },
+            "dev-main": {
+                "name": "gppackagist/publishpress-capabilities-pro",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/publishpress-capabilities-pro.git",
+                    "reference": "42920b30c9f6b0220821411316127af413a09a4d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/publishpress-capabilities-pro/zipball/42920b30c9f6b0220821411316127af413a09a4d",
+                    "reference": "42920b30c9f6b0220821411316127af413a09a4d",
+                    "shasum": ""
+                },
+                "time": "2026-10-03T11:47:56+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "description": "PublishPress Capabilities Pro",
+                "homepage": "https://publishpress.com/capabilities/",
+                "support": {
+                    "source": "https://github.com/gppackagist/publishpress-capabilities-pro/tree/2.52.0",
+                    "issues": "https://github.com/gppackagist/publishpress-capabilities-pro/issues"
+                }
+            }
+        },
         "gppackagist/totalcontest": {
             "2.9.1": {
                 "name": "gppackagist/totalcontest",
@@ -4158,6 +4209,30 @@
                     "issues": "https://github.com/gppackagist/publishpress-revisions-pro/issues"
                 }
             },
+            "4.1.0": {
+                "name": "publishpress/publishpress-revisions-pro",
+                "version": "4.1.0",
+                "version_normalized": "4.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/publishpress-revisions-pro.git",
+                    "reference": "10a0fb0fb77093c29bc0604492d3786329ac5de9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/publishpress-revisions-pro/zipball/10a0fb0fb77093c29bc0604492d3786329ac5de9",
+                    "reference": "10a0fb0fb77093c29bc0604492d3786329ac5de9",
+                    "shasum": ""
+                },
+                "time": "2026-10-03T11:48:03+00:00",
+                "type": "wordpress-plugin",
+                "description": "PublishPress Revisions Pro",
+                "homepage": "https://publishpress.com/revisionary/",
+                "support": {
+                    "source": "https://github.com/gppackagist/publishpress-revisions-pro/tree/4.1.0",
+                    "issues": "https://github.com/gppackagist/publishpress-revisions-pro/issues"
+                }
+            },
             "dev-main": {
                 "name": "publishpress/publishpress-revisions-pro",
                 "version": "dev-main",
@@ -4165,21 +4240,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/publishpress-revisions-pro.git",
-                    "reference": "71bb4888b6d92c520ba695fe408e4e57d0a9b0fb"
+                    "reference": "10a0fb0fb77093c29bc0604492d3786329ac5de9"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/publishpress-revisions-pro/zipball/71bb4888b6d92c520ba695fe408e4e57d0a9b0fb",
-                    "reference": "71bb4888b6d92c520ba695fe408e4e57d0a9b0fb",
+                    "url": "https://api.github.com/repos/gppackagist/publishpress-revisions-pro/zipball/10a0fb0fb77093c29bc0604492d3786329ac5de9",
+                    "reference": "10a0fb0fb77093c29bc0604492d3786329ac5de9",
                     "shasum": ""
                 },
-                "time": "2026-10-03T03:31:04+00:00",
+                "time": "2026-10-03T11:48:03+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "PublishPress Revisions Pro",
                 "homepage": "https://publishpress.com/revisionary/",
                 "support": {
-                    "source": "https://github.com/gppackagist/publishpress-revisions-pro/tree/main",
+                    "source": "https://github.com/gppackagist/publishpress-revisions-pro/tree/4.1.0",
                     "issues": "https://github.com/gppackagist/publishpress-revisions-pro/issues"
                 }
             }
