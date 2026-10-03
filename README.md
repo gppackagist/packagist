@@ -1,56 +1,53 @@
 # gppackagist.github.io/packagist
 
-### Add a plugin
+Composer index for the private WordPress plugin mirrors in the `gppackagist` org. `satis.yml` builds it with Satis and publishes it to GitHub Pages.
 
-1. Create repository with a basic `composer.json`
+## Use it from a site
+
+```json
+{
+  "repositories": [{ "type": "composer", "url": "https://gppackagist.github.io/packagist" }]
+}
+```
+
+Packages download from the private mirror repos, so the site's `auth.json` needs a fine-grained GitHub token with read access to them:
+
+```json
+{ "github-oauth": { "github.com": "<token>" } }
+```
+
+## How it updates
+
+1. Each mirror repo runs `.github/workflows/build.yml` daily. It calls a reusable workflow from [gppackagist/github-action-update-plugins](https://github.com/gppackagist/github-action-update-plugins), pinned by commit, which asks the vendor for the latest version and, if it's new, commits, tags, and releases it.
+2. When a new version is mirrored, the same workflow mints a token from the `gppackagist-satis` GitHub App and starts `satis.yml` here.
+3. `satis.yml` reads every repo in [`satis.json`](./satis.json) with an App token and publishes the index to `gh-pages`.
+4. [gppackagist/packagist-monitor](https://github.com/gppackagist/packagist-monitor) checks daily that builds pass and the index matches the newest tags, and alerts in Slack.
+
+To rebuild the index by hand, run a mirror's Build workflow with `rebuild_index` checked, or run `satis.yml` here.
+
+## Add a plugin
+
+1. Create a private repo in the org with a `composer.json`:
 
     ```json
     {
       "name": "gppackagist/<plugin-slug>",
       "type": "wordpress-plugin",
-      "description": "Plugin name",
-      "homepage": "https://woocommerce.com/products/..."
+      "description": "<Plugin name>",
+      "homepage": "<vendor URL>"
     }
     ```
 
-2. Add `.github/workflows/build.yml` which checks for plugin updates, makes releases and triggers packagist update ([`gppackagist/github-action-update-plugins` README has morere examples](https://github.com/gppackagist/github-action-update-plugins?tab=readme-ov-file#github-workflows-plugins)).
+2. Copy `.github/workflows/build.yml` and `.github/dependabot.yml` from a mirror that uses the same vendor workflow (for example `gravityforms` for Gravity Forms add-ons), and change the `with:` inputs. The [update-plugins README](https://github.com/gppackagist/github-action-update-plugins#github-workflows-plugins) lists the inputs per vendor.
 
-    ```yml
-    name: Build
-    on:
-      workflow_dispatch:
-      schedule:
-        - cron: '5 4 * * *'
-    jobs:
-      build:
-        uses: gppackagist/github-action-update-plugins/.github/workflows/wccom-update.yml@
-        secrets:
-          ACCESS_TOKEN: ${{ secrets.WCCOM_ACCESS_TOKEN }}
-          ACCESS_TOKEN_SECRET: ${{ secrets.WCCOM_ACCESS_TOKEN_SECRET }}
-        with:
-          slug: 'woocommerce-subscriptions'
-          changelog_extract: "'/[0-9\\-]+ - version/ { if (p) { exit }; if ($4 == ver) { p=1; next } } p && NF' changelog.txt"
-      update-satis:
-        needs: build
-        if: needs.build.outputs.updated == 'true'
-        uses: gppackagist/packagist/.github/workflows/update.yml@
-        secrets:
-          token: ${{ secrets.PACKAGIST_UPDATE_PAT }}
-    ```
+3. Set on the new repo:
 
-3. Add [`@gppackagist/deploy`](https://github.com/orgs/gppackagist/teams/deploy) as a collaborator with `read` access. **Do _NOT_ grant write access.**
+    | Name | Kind | Value |
+    | --- | --- | --- |
+    | `PACKAGIST_APP_ID` | variable | the `gppackagist-satis` App ID |
+    | `PACKAGIST_APP_PRIVATE_KEY` | secret | the App's private key |
+    | `LICENSE_KEY` (and any other inputs the vendor workflow needs) | secret | vendor licence |
 
-4. Change the [`PACKAGIST_UPDATE_PAT`](https://github.com/organizations/gppackagist/settings/secrets/actions/PACKAGIST_UPDATE_PAT) secret permissions to be allowed to be used by the repository.
+    The org is on GitHub Free, so organization secrets don't reach private repos; each repo needs its own copy.
 
-5. Add the plugin to [`satis.json`](./satis.json) in this repository.
-
-6. Trigger an initial build which will download the latest plugin version, commit it, tag it, push it, release it and if successful trigger a rebuild in this repository.
-
-7. Whenever a new version is found using the cron schedule, the plugin will be updated, released and finally a rebuild of this repository will be once again triggered.
-
-### Prerequisites
-
-- [`gppackagist_DEPLOY_PAT`](https://github.com/organizations/gppackagist/settings/secrets/actions/gppackagist_DEPLOY_PAT) action secret containg a Personal Access Token of `@gppackagist/deploy` with Conents (read) access. This is used by this repo to read plugin tags/contents from every package listed in `satis.json`. [(settings link)](https://github.com/organizations/gppackagist/settings/personal-access-tokens/367034)
-- [`PACKAGIST_UPDATE_PAT`](https://github.com/organizations/gppackagist/settings/secrets/actions/PACKAGIST_UPDATE_PAT) action secret containg a Personal Access Token of a user with _write_ access to this repository. The token is limited to only this repository with Contents (write) access. [(settings link)](https://github.com/organizations/gppackagist/settings/personal-access-tokens/367065)
-- [`WCCOM_ACCESS_TOKEN`](https://github.com/organizations/gppackagist/settings/secrets/actions/WCCOM_ACCESS_TOKEN) and [`WCCOM_ACCESS_TOKEN_SECRET`](https://github.com/organizations/gppackagist/settings/secrets/actions/WCCOM_ACCESS_TOKEN_SECRET) action secrets which contain the OAuth2 tokens stored in wp_options of the store which is connected to WooCommerce.
-- `LICENSE_KEY` is added as a Repository Secret to each relevant plugin repository. The secret contains the license key.
+4. Run the Build workflow once. When it has produced a tag, add the repo to [`satis.json`](./satis.json).
