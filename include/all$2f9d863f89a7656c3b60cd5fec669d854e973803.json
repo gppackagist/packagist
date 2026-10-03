@@ -771,28 +771,6 @@
                     "issues": "https://github.com/gppackagist/advanced-custom-fields-pro/issues"
                 }
             },
-            "dev-dependabot/github_actions/actions/create-github-app-token-3.2.0": {
-                "name": "gppackagist/advanced-custom-fields-pro",
-                "version": "dev-dependabot/github_actions/actions/create-github-app-token-3.2.0",
-                "version_normalized": "dev-dependabot/github_actions/actions/create-github-app-token-3.2.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:gppackagist/advanced-custom-fields-pro.git",
-                    "reference": "fd5cb8c88c744aadbae0419c5d7b0f3a47517df5"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/advanced-custom-fields-pro/zipball/fd5cb8c88c744aadbae0419c5d7b0f3a47517df5",
-                    "reference": "fd5cb8c88c744aadbae0419c5d7b0f3a47517df5",
-                    "shasum": ""
-                },
-                "time": "2026-10-03T00:16:16+00:00",
-                "type": "wordpress-plugin",
-                "support": {
-                    "source": "https://github.com/gppackagist/advanced-custom-fields-pro/tree/dependabot/github_actions/actions/create-github-app-token-3.2.0",
-                    "issues": "https://github.com/gppackagist/advanced-custom-fields-pro/issues"
-                }
-            },
             "dev-main": {
                 "name": "gppackagist/advanced-custom-fields-pro",
                 "version": "dev-main",
@@ -800,15 +778,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/advanced-custom-fields-pro.git",
-                    "reference": "e38dba497d31edfd4a2e0830eab66fba9e502718"
+                    "reference": "9e6fe174da7f2ee8decb0b330cd6fccf8d19c54a"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/advanced-custom-fields-pro/zipball/e38dba497d31edfd4a2e0830eab66fba9e502718",
-                    "reference": "e38dba497d31edfd4a2e0830eab66fba9e502718",
+                    "url": "https://api.github.com/repos/gppackagist/advanced-custom-fields-pro/zipball/9e6fe174da7f2ee8decb0b330cd6fccf8d19c54a",
+                    "reference": "9e6fe174da7f2ee8decb0b330cd6fccf8d19c54a",
                     "shasum": ""
                 },
-                "time": "2026-10-03T00:15:29+00:00",
+                "time": "2026-10-03T00:48:06+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
@@ -1441,15 +1419,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/bb-plugin-standard.git",
-                    "reference": "365aab80de4af491d884234df8eee52e269af760"
+                    "reference": "005ef522d8f46b3fa3053f5f44719fa707f9d1f7"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/bb-plugin-standard/zipball/365aab80de4af491d884234df8eee52e269af760",
-                    "reference": "365aab80de4af491d884234df8eee52e269af760",
+                    "url": "https://api.github.com/repos/gppackagist/bb-plugin-standard/zipball/005ef522d8f46b3fa3053f5f44719fa707f9d1f7",
+                    "reference": "005ef522d8f46b3fa3053f5f44719fa707f9d1f7",
                     "shasum": ""
                 },
-                "time": "2026-10-03T00:15:34+00:00",
+                "time": "2026-10-03T00:48:11+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
@@ -3791,28 +3769,6 @@
                     "issues": "https://github.com/gppackagist/gravityforms/issues"
                 }
             },
-            "dev-dependabot/github_actions/actions/create-github-app-token-3.2.0": {
-                "name": "gppackagist/gravityforms",
-                "version": "dev-dependabot/github_actions/actions/create-github-app-token-3.2.0",
-                "version_normalized": "dev-dependabot/github_actions/actions/create-github-app-token-3.2.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:gppackagist/gravityforms.git",
-                    "reference": "27f5801bfaf405b3e8e69191ea2f949e748dfc2f"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/gravityforms/zipball/27f5801bfaf405b3e8e69191ea2f949e748dfc2f",
-                    "reference": "27f5801bfaf405b3e8e69191ea2f949e748dfc2f",
-                    "shasum": ""
-                },
-                "time": "2026-10-03T00:16:10+00:00",
-                "type": "wordpress-plugin",
-                "support": {
-                    "source": "https://github.com/gppackagist/gravityforms/tree/dependabot/github_actions/actions/create-github-app-token-3.2.0",
-                    "issues": "https://github.com/gppackagist/gravityforms/issues"
-                }
-            },
             "dev-main": {
                 "name": "gppackagist/gravityforms",
                 "version": "dev-main",
@@ -3820,15 +3776,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/gravityforms.git",
-                    "reference": "c285e037b357be05e4b51f61aa6ee2524b9400e0"
+                    "reference": "76eaff01341b9bf99cc69a13a06155e262858499"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/gravityforms/zipball/c285e037b357be05e4b51f61aa6ee2524b9400e0",
-                    "reference": "c285e037b357be05e4b51f61aa6ee2524b9400e0",
+                    "url": "https://api.github.com/repos/gppackagist/gravityforms/zipball/76eaff01341b9bf99cc69a13a06155e262858499",
+                    "reference": "76eaff01341b9bf99cc69a13a06155e262858499",
                     "shasum": ""
                 },
-                "time": "2026-10-03T00:15:24+00:00",
+                "time": "2026-10-03T00:48:00+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
@@ -3950,15 +3906,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/gravityformsturnstile.git",
-                    "reference": "5ea0eec20e9eaa63a2fd33b22293b8b77d8291cf"
+                    "reference": "6573705529efb37f2a52656c09f5173df3958c73"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/gravityformsturnstile/zipball/5ea0eec20e9eaa63a2fd33b22293b8b77d8291cf",
-                    "reference": "5ea0eec20e9eaa63a2fd33b22293b8b77d8291cf",
+                    "url": "https://api.github.com/repos/gppackagist/gravityformsturnstile/zipball/6573705529efb37f2a52656c09f5173df3958c73",
+                    "reference": "6573705529efb37f2a52656c09f5173df3958c73",
                     "shasum": ""
                 },
-                "time": "2026-10-03T00:15:38+00:00",
+                "time": "2026-10-03T00:48:16+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
@@ -4037,15 +3993,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/gravityformswebhooks.git",
-                    "reference": "b01105b16d1104f7450ca4542187304804dbb217"
+                    "reference": "6ffc2defa25fc1fd973766498352e1db3183fe3c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/gravityformswebhooks/zipball/b01105b16d1104f7450ca4542187304804dbb217",
-                    "reference": "b01105b16d1104f7450ca4542187304804dbb217",
+                    "url": "https://api.github.com/repos/gppackagist/gravityformswebhooks/zipball/6ffc2defa25fc1fd973766498352e1db3183fe3c",
+                    "reference": "6ffc2defa25fc1fd973766498352e1db3183fe3c",
                     "shasum": ""
                 },
-                "time": "2026-10-03T00:15:43+00:00",
+                "time": "2026-10-03T00:48:21+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {

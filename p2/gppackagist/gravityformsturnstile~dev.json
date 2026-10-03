@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/gravityformsturnstile.git",
-                    "reference": "5ea0eec20e9eaa63a2fd33b22293b8b77d8291cf"
+                    "reference": "6573705529efb37f2a52656c09f5173df3958c73"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/gravityformsturnstile/zipball/5ea0eec20e9eaa63a2fd33b22293b8b77d8291cf",
-                    "reference": "5ea0eec20e9eaa63a2fd33b22293b8b77d8291cf",
+                    "url": "https://api.github.com/repos/gppackagist/gravityformsturnstile/zipball/6573705529efb37f2a52656c09f5173df3958c73",
+                    "reference": "6573705529efb37f2a52656c09f5173df3958c73",
                     "shasum": ""
                 },
-                "time": "2026-10-03T00:15:38+00:00",
+                "time": "2026-10-03T00:48:16+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {

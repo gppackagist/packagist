@@ -3,42 +3,20 @@
         "gppackagist/gravityforms": [
             {
                 "name": "gppackagist/gravityforms",
-                "version": "dev-dependabot/github_actions/actions/create-github-app-token-3.2.0",
-                "version_normalized": "dev-dependabot/github_actions/actions/create-github-app-token-3.2.0",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:gppackagist/gravityforms.git",
-                    "reference": "27f5801bfaf405b3e8e69191ea2f949e748dfc2f"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/gravityforms/zipball/27f5801bfaf405b3e8e69191ea2f949e748dfc2f",
-                    "reference": "27f5801bfaf405b3e8e69191ea2f949e748dfc2f",
-                    "shasum": ""
-                },
-                "time": "2026-10-03T00:16:10+00:00",
-                "type": "wordpress-plugin",
-                "support": {
-                    "source": "https://github.com/gppackagist/gravityforms/tree/dependabot/github_actions/actions/create-github-app-token-3.2.0",
-                    "issues": "https://github.com/gppackagist/gravityforms/issues"
-                }
-            },
-            {
-                "name": "gppackagist/gravityforms",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/gravityforms.git",
-                    "reference": "c285e037b357be05e4b51f61aa6ee2524b9400e0"
+                    "reference": "76eaff01341b9bf99cc69a13a06155e262858499"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/gravityforms/zipball/c285e037b357be05e4b51f61aa6ee2524b9400e0",
-                    "reference": "c285e037b357be05e4b51f61aa6ee2524b9400e0",
+                    "url": "https://api.github.com/repos/gppackagist/gravityforms/zipball/76eaff01341b9bf99cc69a13a06155e262858499",
+                    "reference": "76eaff01341b9bf99cc69a13a06155e262858499",
                     "shasum": ""
                 },
-                "time": "2026-10-03T00:15:24+00:00",
+                "time": "2026-10-03T00:48:00+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
