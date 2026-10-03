@@ -3,45 +3,24 @@
         "gppackagist/gravityformswebhooks": [
             {
                 "name": "gppackagist/gravityformswebhooks",
-                "version": "dev-github-app-token",
-                "version_normalized": "dev-github-app-token",
-                "source": {
-                    "type": "git",
-                    "url": "git@github.com:gppackagist/gravityformswebhooks.git",
-                    "reference": "d2ad1688dbe88dc1c6231b3706bf1f57116f93b7"
-                },
-                "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/gravityformswebhooks/zipball/d2ad1688dbe88dc1c6231b3706bf1f57116f93b7",
-                    "reference": "d2ad1688dbe88dc1c6231b3706bf1f57116f93b7",
-                    "shasum": ""
-                },
-                "time": "2026-10-02T23:41:36+00:00",
-                "type": "wordpress-plugin",
-                "support": {
-                    "source": "https://github.com/gppackagist/gravityformswebhooks/tree/github-app-token"
-                }
-            },
-            {
-                "name": "gppackagist/gravityformswebhooks",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/gravityformswebhooks.git",
-                    "reference": "8393fd18686a1971935674c0c39a379bfb1695a6"
+                    "reference": "b01105b16d1104f7450ca4542187304804dbb217"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/gravityformswebhooks/zipball/8393fd18686a1971935674c0c39a379bfb1695a6",
-                    "reference": "8393fd18686a1971935674c0c39a379bfb1695a6",
+                    "url": "https://api.github.com/repos/gppackagist/gravityformswebhooks/zipball/b01105b16d1104f7450ca4542187304804dbb217",
+                    "reference": "b01105b16d1104f7450ca4542187304804dbb217",
                     "shasum": ""
                 },
-                "time": "2025-04-12T04:24:51+00:00",
+                "time": "2026-10-03T00:15:43+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
-                    "source": "https://github.com/gppackagist/gravityformswebhooks/tree/1.7.0"
+                    "source": "https://github.com/gppackagist/gravityformswebhooks/tree/main"
                 }
             }
         ]
