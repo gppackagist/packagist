@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/advanced-custom-fields-pro.git",
-                    "reference": "9e6fe174da7f2ee8decb0b330cd6fccf8d19c54a"
+                    "reference": "3b00389cde1ff0c894b9587cef41b8f0d14b3fbd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/advanced-custom-fields-pro/zipball/9e6fe174da7f2ee8decb0b330cd6fccf8d19c54a",
-                    "reference": "9e6fe174da7f2ee8decb0b330cd6fccf8d19c54a",
+                    "url": "https://api.github.com/repos/gppackagist/advanced-custom-fields-pro/zipball/3b00389cde1ff0c894b9587cef41b8f0d14b3fbd",
+                    "reference": "3b00389cde1ff0c894b9587cef41b8f0d14b3fbd",
                     "shasum": ""
                 },
-                "time": "2026-10-03T00:48:06+00:00",
+                "time": "2026-10-03T03:29:56+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {

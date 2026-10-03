@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/bb-plugin-standard.git",
-                    "reference": "005ef522d8f46b3fa3053f5f44719fa707f9d1f7"
+                    "reference": "854d66ff0647a7e9578b4db4108ea67948054284"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/bb-plugin-standard/zipball/005ef522d8f46b3fa3053f5f44719fa707f9d1f7",
-                    "reference": "005ef522d8f46b3fa3053f5f44719fa707f9d1f7",
+                    "url": "https://api.github.com/repos/gppackagist/bb-plugin-standard/zipball/854d66ff0647a7e9578b4db4108ea67948054284",
+                    "reference": "854d66ff0647a7e9578b4db4108ea67948054284",
                     "shasum": ""
                 },
-                "time": "2026-10-03T00:48:11+00:00",
+                "time": "2026-10-03T03:30:06+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {

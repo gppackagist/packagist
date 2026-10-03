@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/gravityformswebhooks.git",
-                    "reference": "6ffc2defa25fc1fd973766498352e1db3183fe3c"
+                    "reference": "4f640156e0ae5ca93e4c59b971d3afda7bf3a375"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/gravityformswebhooks/zipball/6ffc2defa25fc1fd973766498352e1db3183fe3c",
-                    "reference": "6ffc2defa25fc1fd973766498352e1db3183fe3c",
+                    "url": "https://api.github.com/repos/gppackagist/gravityformswebhooks/zipball/4f640156e0ae5ca93e4c59b971d3afda7bf3a375",
+                    "reference": "4f640156e0ae5ca93e4c59b971d3afda7bf3a375",
                     "shasum": ""
                 },
-                "time": "2026-10-03T00:48:21+00:00",
+                "time": "2026-10-03T03:30:26+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {

@@ -8,21 +8,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/totalcontest.git",
-                    "reference": "1bb9b7289cd69fc1c549202ede1e33d875c9746f"
+                    "reference": "b3c6f9142574653290e94872a70e1445684e5e90"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/totalcontest/zipball/1bb9b7289cd69fc1c549202ede1e33d875c9746f",
-                    "reference": "1bb9b7289cd69fc1c549202ede1e33d875c9746f",
+                    "url": "https://api.github.com/repos/gppackagist/totalcontest/zipball/b3c6f9142574653290e94872a70e1445684e5e90",
+                    "reference": "b3c6f9142574653290e94872a70e1445684e5e90",
                     "shasum": ""
                 },
-                "time": "2025-09-12T20:55:58+00:00",
+                "time": "2026-10-03T03:30:55+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "Plugin name",
                 "homepage": "https://totalsuite.net/product/totalcontest",
                 "support": {
-                    "source": "https://github.com/gppackagist/totalcontest/tree/2.9.1",
+                    "source": "https://github.com/gppackagist/totalcontest/tree/main",
                     "issues": "https://github.com/gppackagist/totalcontest/issues"
                 }
             }
