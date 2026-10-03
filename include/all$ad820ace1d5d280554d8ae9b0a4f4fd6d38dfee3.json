@@ -3776,15 +3776,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/gravityforms.git",
-                    "reference": "c958f347b85931c2e68c7a41e8f1fd584a173dac"
+                    "reference": "45a8201a819e3f064bd5dee3e6db74ccc1858f26"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/gravityforms/zipball/c958f347b85931c2e68c7a41e8f1fd584a173dac",
-                    "reference": "c958f347b85931c2e68c7a41e8f1fd584a173dac",
+                    "url": "https://api.github.com/repos/gppackagist/gravityforms/zipball/45a8201a819e3f064bd5dee3e6db74ccc1858f26",
+                    "reference": "45a8201a819e3f064bd5dee3e6db74ccc1858f26",
                     "shasum": ""
                 },
-                "time": "2026-10-03T12:01:57+00:00",
+                "time": "2026-10-03T14:31:32+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
