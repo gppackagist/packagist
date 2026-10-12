@@ -3,6 +3,27 @@
         "gppackagist/gravityformsturnstile": [
             {
                 "name": "gppackagist/gravityformsturnstile",
+                "version": "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/gravityforms-update.yml-1.1.0",
+                "version_normalized": "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/gravityforms-update.yml-1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/gravityformsturnstile.git",
+                    "reference": "71dd5922c731714c889159fd9eb3ae152e17f933"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/gravityformsturnstile/zipball/71dd5922c731714c889159fd9eb3ae152e17f933",
+                    "reference": "71dd5922c731714c889159fd9eb3ae152e17f933",
+                    "shasum": ""
+                },
+                "time": "2026-10-10T01:24:21+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/gravityformsturnstile/tree/dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/gravityforms-update.yml-1.1.0"
+                }
+            },
+            {
+                "name": "gppackagist/gravityformsturnstile",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {

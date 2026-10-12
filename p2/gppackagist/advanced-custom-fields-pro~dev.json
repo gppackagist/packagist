@@ -3,6 +3,28 @@
         "gppackagist/advanced-custom-fields-pro": [
             {
                 "name": "gppackagist/advanced-custom-fields-pro",
+                "version": "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/acf-update.yml-1.1.0",
+                "version_normalized": "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/acf-update.yml-1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/advanced-custom-fields-pro.git",
+                    "reference": "dc44ca7eb57252ef8fa2f0f2957b12ad993f250e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/advanced-custom-fields-pro/zipball/dc44ca7eb57252ef8fa2f0f2957b12ad993f250e",
+                    "reference": "dc44ca7eb57252ef8fa2f0f2957b12ad993f250e",
+                    "shasum": ""
+                },
+                "time": "2026-10-10T04:34:27+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/advanced-custom-fields-pro/tree/dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/acf-update.yml-1.1.0",
+                    "issues": "https://github.com/gppackagist/advanced-custom-fields-pro/issues"
+                }
+            },
+            {
+                "name": "gppackagist/advanced-custom-fields-pro",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {

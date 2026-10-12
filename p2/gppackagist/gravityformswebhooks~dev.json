@@ -3,6 +3,27 @@
         "gppackagist/gravityformswebhooks": [
             {
                 "name": "gppackagist/gravityformswebhooks",
+                "version": "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/gravityforms-update.yml-1.1.0",
+                "version_normalized": "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/gravityforms-update.yml-1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/gravityformswebhooks.git",
+                    "reference": "a2411674cef3cdfc86b2e1565275728f9be89ec0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/gravityformswebhooks/zipball/a2411674cef3cdfc86b2e1565275728f9be89ec0",
+                    "reference": "a2411674cef3cdfc86b2e1565275728f9be89ec0",
+                    "shasum": ""
+                },
+                "time": "2026-10-10T17:44:51+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/gravityformswebhooks/tree/dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/gravityforms-update.yml-1.1.0"
+                }
+            },
+            {
+                "name": "gppackagist/gravityformswebhooks",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {

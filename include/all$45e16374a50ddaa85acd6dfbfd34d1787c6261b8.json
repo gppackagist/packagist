@@ -771,6 +771,28 @@
                     "issues": "https://github.com/gppackagist/advanced-custom-fields-pro/issues"
                 }
             },
+            "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/acf-update.yml-1.1.0": {
+                "name": "gppackagist/advanced-custom-fields-pro",
+                "version": "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/acf-update.yml-1.1.0",
+                "version_normalized": "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/acf-update.yml-1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/advanced-custom-fields-pro.git",
+                    "reference": "dc44ca7eb57252ef8fa2f0f2957b12ad993f250e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/advanced-custom-fields-pro/zipball/dc44ca7eb57252ef8fa2f0f2957b12ad993f250e",
+                    "reference": "dc44ca7eb57252ef8fa2f0f2957b12ad993f250e",
+                    "shasum": ""
+                },
+                "time": "2026-10-10T04:34:27+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/advanced-custom-fields-pro/tree/dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/acf-update.yml-1.1.0",
+                    "issues": "https://github.com/gppackagist/advanced-custom-fields-pro/issues"
+                }
+            },
             "dev-main": {
                 "name": "gppackagist/advanced-custom-fields-pro",
                 "version": "dev-main",
@@ -1409,6 +1431,28 @@
                 "type": "wordpress-plugin",
                 "support": {
                     "source": "https://github.com/gppackagist/bb-plugin-standard/tree/2.9.4.2",
+                    "issues": "https://github.com/gppackagist/bb-plugin-standard/issues"
+                }
+            },
+            "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/beaver-builder-update.yml-1.1.0": {
+                "name": "gppackagist/bb-plugin-standard",
+                "version": "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/beaver-builder-update.yml-1.1.0",
+                "version_normalized": "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/beaver-builder-update.yml-1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/bb-plugin-standard.git",
+                    "reference": "ec65bf354350a2be3c9d010096bc59e611c1d879"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/bb-plugin-standard/zipball/ec65bf354350a2be3c9d010096bc59e611c1d879",
+                    "reference": "ec65bf354350a2be3c9d010096bc59e611c1d879",
+                    "shasum": ""
+                },
+                "time": "2026-10-10T21:54:54+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/bb-plugin-standard/tree/dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/beaver-builder-update.yml-1.1.0",
                     "issues": "https://github.com/gppackagist/bb-plugin-standard/issues"
                 }
             },
@@ -3791,6 +3835,28 @@
                     "issues": "https://github.com/gppackagist/gravityforms/issues"
                 }
             },
+            "3.1.3.2": {
+                "name": "gppackagist/gravityforms",
+                "version": "3.1.3.2",
+                "version_normalized": "3.1.3.2",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/gravityforms.git",
+                    "reference": "6f6bacdb4c79b34949d7dba7d93781e15f9a8549"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/gravityforms/zipball/6f6bacdb4c79b34949d7dba7d93781e15f9a8549",
+                    "reference": "6f6bacdb4c79b34949d7dba7d93781e15f9a8549",
+                    "shasum": ""
+                },
+                "time": "2026-10-12T11:51:44+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/gravityforms/tree/3.1.3.2",
+                    "issues": "https://github.com/gppackagist/gravityforms/issues"
+                }
+            },
             "dev-main": {
                 "name": "gppackagist/gravityforms",
                 "version": "dev-main",
@@ -3798,19 +3864,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/gravityforms.git",
-                    "reference": "90c277bc74927bea021ae3ff749b487b4a71eed7"
+                    "reference": "6f6bacdb4c79b34949d7dba7d93781e15f9a8549"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/gravityforms/zipball/90c277bc74927bea021ae3ff749b487b4a71eed7",
-                    "reference": "90c277bc74927bea021ae3ff749b487b4a71eed7",
+                    "url": "https://api.github.com/repos/gppackagist/gravityforms/zipball/6f6bacdb4c79b34949d7dba7d93781e15f9a8549",
+                    "reference": "6f6bacdb4c79b34949d7dba7d93781e15f9a8549",
                     "shasum": ""
                 },
-                "time": "2026-10-05T11:22:51+00:00",
+                "time": "2026-10-12T11:51:44+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
-                    "source": "https://github.com/gppackagist/gravityforms/tree/3.1.3.1",
+                    "source": "https://github.com/gppackagist/gravityforms/tree/3.1.3.2",
                     "issues": "https://github.com/gppackagist/gravityforms/issues"
                 }
             }
@@ -3921,6 +3987,27 @@
                     "source": "https://github.com/gppackagist/gravityformsturnstile/tree/1.5.0"
                 }
             },
+            "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/gravityforms-update.yml-1.1.0": {
+                "name": "gppackagist/gravityformsturnstile",
+                "version": "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/gravityforms-update.yml-1.1.0",
+                "version_normalized": "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/gravityforms-update.yml-1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/gravityformsturnstile.git",
+                    "reference": "71dd5922c731714c889159fd9eb3ae152e17f933"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/gravityformsturnstile/zipball/71dd5922c731714c889159fd9eb3ae152e17f933",
+                    "reference": "71dd5922c731714c889159fd9eb3ae152e17f933",
+                    "shasum": ""
+                },
+                "time": "2026-10-10T01:24:21+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/gravityformsturnstile/tree/dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/gravityforms-update.yml-1.1.0"
+                }
+            },
             "dev-main": {
                 "name": "gppackagist/gravityformsturnstile",
                 "version": "dev-main",
@@ -4006,6 +4093,27 @@
                 "type": "wordpress-plugin",
                 "support": {
                     "source": "https://github.com/gppackagist/gravityformswebhooks/tree/1.7.0"
+                }
+            },
+            "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/gravityforms-update.yml-1.1.0": {
+                "name": "gppackagist/gravityformswebhooks",
+                "version": "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/gravityforms-update.yml-1.1.0",
+                "version_normalized": "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/gravityforms-update.yml-1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/gravityformswebhooks.git",
+                    "reference": "a2411674cef3cdfc86b2e1565275728f9be89ec0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/gravityformswebhooks/zipball/a2411674cef3cdfc86b2e1565275728f9be89ec0",
+                    "reference": "a2411674cef3cdfc86b2e1565275728f9be89ec0",
+                    "shasum": ""
+                },
+                "time": "2026-10-10T17:44:51+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/gravityformswebhooks/tree/dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/gravityforms-update.yml-1.1.0"
                 }
             },
             "dev-main": {
