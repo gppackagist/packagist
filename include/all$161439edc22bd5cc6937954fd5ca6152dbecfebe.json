@@ -4458,6 +4458,30 @@
                     "issues": "https://github.com/gppackagist/sitepress-multilingual-cms/issues"
                 }
             },
+            "5.2.0": {
+                "name": "gppackagist/sitepress-multilingual-cms",
+                "version": "5.2.0",
+                "version_normalized": "5.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/sitepress-multilingual-cms.git",
+                    "reference": "b74d4cb76a66d771294b10793a73c085522ab5ce"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/sitepress-multilingual-cms/zipball/b74d4cb76a66d771294b10793a73c085522ab5ce",
+                    "reference": "b74d4cb76a66d771294b10793a73c085522ab5ce",
+                    "shasum": ""
+                },
+                "time": "2026-10-21T09:18:25+00:00",
+                "type": "wordpress-plugin",
+                "description": "WPML Multilingual CMS",
+                "homepage": "https://wpml.org/",
+                "support": {
+                    "source": "https://github.com/gppackagist/sitepress-multilingual-cms/tree/5.2.0",
+                    "issues": "https://github.com/gppackagist/sitepress-multilingual-cms/issues"
+                }
+            },
             "dev-dependabot/github_actions/actions/create-github-app-token-3.3.0": {
                 "name": "gppackagist/sitepress-multilingual-cms",
                 "version": "dev-dependabot/github_actions/actions/create-github-app-token-3.3.0",
@@ -4503,7 +4527,7 @@
                 "description": "WPML Multilingual CMS",
                 "homepage": "https://wpml.org/",
                 "support": {
-                    "source": "https://github.com/gppackagist/sitepress-multilingual-cms/tree/main",
+                    "source": "https://github.com/gppackagist/sitepress-multilingual-cms/tree/5.2.0",
                     "issues": "https://github.com/gppackagist/sitepress-multilingual-cms/issues"
                 }
             }
@@ -4608,6 +4632,30 @@
                     "issues": "https://github.com/gppackagist/wpml-string-translation/issues"
                 }
             },
+            "5.2.0": {
+                "name": "gppackagist/wpml-string-translation",
+                "version": "5.2.0",
+                "version_normalized": "5.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/wpml-string-translation.git",
+                    "reference": "ced2d844e90187c9ff9a108878d29945c0659f5b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/wpml-string-translation/zipball/ced2d844e90187c9ff9a108878d29945c0659f5b",
+                    "reference": "ced2d844e90187c9ff9a108878d29945c0659f5b",
+                    "shasum": ""
+                },
+                "time": "2026-10-21T09:19:04+00:00",
+                "type": "wordpress-plugin",
+                "description": "WPML String Translation",
+                "homepage": "https://wpml.org/",
+                "support": {
+                    "source": "https://github.com/gppackagist/wpml-string-translation/tree/5.2.0",
+                    "issues": "https://github.com/gppackagist/wpml-string-translation/issues"
+                }
+            },
             "dev-dependabot/github_actions/actions/create-github-app-token-3.3.0": {
                 "name": "gppackagist/wpml-string-translation",
                 "version": "dev-dependabot/github_actions/actions/create-github-app-token-3.3.0",
@@ -4639,21 +4687,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/wpml-string-translation.git",
-                    "reference": "cb8efdd1394d64812e57065967c7d4e51ef3a473"
+                    "reference": "ced2d844e90187c9ff9a108878d29945c0659f5b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/wpml-string-translation/zipball/cb8efdd1394d64812e57065967c7d4e51ef3a473",
-                    "reference": "cb8efdd1394d64812e57065967c7d4e51ef3a473",
+                    "url": "https://api.github.com/repos/gppackagist/wpml-string-translation/zipball/ced2d844e90187c9ff9a108878d29945c0659f5b",
+                    "reference": "ced2d844e90187c9ff9a108878d29945c0659f5b",
                     "shasum": ""
                 },
-                "time": "2026-10-03T13:26:55+00:00",
+                "time": "2026-10-21T09:19:04+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "WPML String Translation",
                 "homepage": "https://wpml.org/",
                 "support": {
-                    "source": "https://github.com/gppackagist/wpml-string-translation/tree/5.1.0",
+                    "source": "https://github.com/gppackagist/wpml-string-translation/tree/5.2.0",
                     "issues": "https://github.com/gppackagist/wpml-string-translation/issues"
                 }
             }
