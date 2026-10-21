@@ -3,6 +3,30 @@
         "publishpress/publishpress-revisions-pro": [
             {
                 "name": "publishpress/publishpress-revisions-pro",
+                "version": "dev-dependabot/github_actions/actions/create-github-app-token-3.3.0",
+                "version_normalized": "dev-dependabot/github_actions/actions/create-github-app-token-3.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/publishpress-revisions-pro.git",
+                    "reference": "1642448b5d88471fd11d2ff6afd256712e8bf822"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/publishpress-revisions-pro/zipball/1642448b5d88471fd11d2ff6afd256712e8bf822",
+                    "reference": "1642448b5d88471fd11d2ff6afd256712e8bf822",
+                    "shasum": ""
+                },
+                "time": "2026-10-17T09:02:52+00:00",
+                "type": "wordpress-plugin",
+                "description": "PublishPress Revisions Pro",
+                "homepage": "https://publishpress.com/revisionary/",
+                "support": {
+                    "source": "https://github.com/gppackagist/publishpress-revisions-pro/tree/dependabot/github_actions/actions/create-github-app-token-3.3.0",
+                    "issues": "https://github.com/gppackagist/publishpress-revisions-pro/issues"
+                }
+            },
+            {
+                "name": "publishpress/publishpress-revisions-pro",
                 "version": "dev-main",
                 "version_normalized": "dev-main",
                 "source": {

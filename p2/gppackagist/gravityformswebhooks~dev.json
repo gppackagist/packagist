@@ -3,6 +3,27 @@
         "gppackagist/gravityformswebhooks": [
             {
                 "name": "gppackagist/gravityformswebhooks",
+                "version": "dev-dependabot/github_actions/actions/create-github-app-token-3.3.0",
+                "version_normalized": "dev-dependabot/github_actions/actions/create-github-app-token-3.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/gravityformswebhooks.git",
+                    "reference": "83588b6cae089f90b18293ab1f6b687d250dd90b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/gravityformswebhooks/zipball/83588b6cae089f90b18293ab1f6b687d250dd90b",
+                    "reference": "83588b6cae089f90b18293ab1f6b687d250dd90b",
+                    "shasum": ""
+                },
+                "time": "2026-10-17T17:42:31+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/gravityformswebhooks/tree/dependabot/github_actions/actions/create-github-app-token-3.3.0"
+                }
+            },
+            {
+                "name": "gppackagist/gravityformswebhooks",
                 "version": "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/gravityforms-update.yml-1.1.0",
                 "version_normalized": "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/gravityforms-update.yml-1.1.0",
                 "source": {

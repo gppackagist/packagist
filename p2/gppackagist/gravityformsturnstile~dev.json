@@ -3,6 +3,27 @@
         "gppackagist/gravityformsturnstile": [
             {
                 "name": "gppackagist/gravityformsturnstile",
+                "version": "dev-dependabot/github_actions/actions/create-github-app-token-3.3.0",
+                "version_normalized": "dev-dependabot/github_actions/actions/create-github-app-token-3.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/gravityformsturnstile.git",
+                    "reference": "ad0ee4dee5961bcaab2fd6b93304f90bda6a433e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/gravityformsturnstile/zipball/ad0ee4dee5961bcaab2fd6b93304f90bda6a433e",
+                    "reference": "ad0ee4dee5961bcaab2fd6b93304f90bda6a433e",
+                    "shasum": ""
+                },
+                "time": "2026-10-17T01:22:37+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/gravityformsturnstile/tree/dependabot/github_actions/actions/create-github-app-token-3.3.0"
+                }
+            },
+            {
+                "name": "gppackagist/gravityformsturnstile",
                 "version": "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/gravityforms-update.yml-1.1.0",
                 "version_normalized": "dev-dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/gravityforms-update.yml-1.1.0",
                 "source": {
