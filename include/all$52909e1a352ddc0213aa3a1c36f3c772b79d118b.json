@@ -595,6 +595,28 @@
                     "issues": "https://github.com/gppackagist/advanced-custom-fields-pro/issues"
                 }
             },
+            "6.8.11": {
+                "name": "gppackagist/advanced-custom-fields-pro",
+                "version": "6.8.11",
+                "version_normalized": "6.8.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/advanced-custom-fields-pro.git",
+                    "reference": "daa65f2c9c830260bd9b1c857e056d1bdade3225"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/advanced-custom-fields-pro/zipball/daa65f2c9c830260bd9b1c857e056d1bdade3225",
+                    "reference": "daa65f2c9c830260bd9b1c857e056d1bdade3225",
+                    "shasum": ""
+                },
+                "time": "2026-11-03T11:49:42+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/advanced-custom-fields-pro/tree/6.8.11",
+                    "issues": "https://github.com/gppackagist/advanced-custom-fields-pro/issues"
+                }
+            },
             "6.8.2": {
                 "name": "gppackagist/advanced-custom-fields-pro",
                 "version": "6.8.2",
@@ -822,19 +844,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/advanced-custom-fields-pro.git",
-                    "reference": "45907b56743b6358c27dba2edee9f2995817da9c"
+                    "reference": "daa65f2c9c830260bd9b1c857e056d1bdade3225"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/advanced-custom-fields-pro/zipball/45907b56743b6358c27dba2edee9f2995817da9c",
-                    "reference": "45907b56743b6358c27dba2edee9f2995817da9c",
+                    "url": "https://api.github.com/repos/gppackagist/advanced-custom-fields-pro/zipball/daa65f2c9c830260bd9b1c857e056d1bdade3225",
+                    "reference": "daa65f2c9c830260bd9b1c857e056d1bdade3225",
                     "shasum": ""
                 },
-                "time": "2026-10-03T12:02:06+00:00",
+                "time": "2026-11-03T11:49:42+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
-                    "source": "https://github.com/gppackagist/advanced-custom-fields-pro/tree/main",
+                    "source": "https://github.com/gppackagist/advanced-custom-fields-pro/tree/6.8.11",
                     "issues": "https://github.com/gppackagist/advanced-custom-fields-pro/issues"
                 }
             }
@@ -4896,6 +4918,30 @@
                     "issues": "https://github.com/gppackagist/publishpress-revisions-pro/issues"
                 }
             },
+            "4.3.1": {
+                "name": "publishpress/publishpress-revisions-pro",
+                "version": "4.3.1",
+                "version_normalized": "4.3.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/publishpress-revisions-pro.git",
+                    "reference": "c164260d5be89ce822d30fabeb947d5718b1e357"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/publishpress-revisions-pro/zipball/c164260d5be89ce822d30fabeb947d5718b1e357",
+                    "reference": "c164260d5be89ce822d30fabeb947d5718b1e357",
+                    "shasum": ""
+                },
+                "time": "2026-11-03T11:49:08+00:00",
+                "type": "wordpress-plugin",
+                "description": "PublishPress Revisions Pro",
+                "homepage": "https://publishpress.com/revisionary/",
+                "support": {
+                    "source": "https://github.com/gppackagist/publishpress-revisions-pro/tree/4.3.1",
+                    "issues": "https://github.com/gppackagist/publishpress-revisions-pro/issues"
+                }
+            },
             "dev-dependabot/github_actions/actions/create-github-app-token-3.3.0": {
                 "name": "publishpress/publishpress-revisions-pro",
                 "version": "dev-dependabot/github_actions/actions/create-github-app-token-3.3.0",
@@ -4927,21 +4973,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/publishpress-revisions-pro.git",
-                    "reference": "ec4e224e0a5edb3c58f39ce5707be757c5c1c7c8"
+                    "reference": "c164260d5be89ce822d30fabeb947d5718b1e357"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/publishpress-revisions-pro/zipball/ec4e224e0a5edb3c58f39ce5707be757c5c1c7c8",
-                    "reference": "ec4e224e0a5edb3c58f39ce5707be757c5c1c7c8",
+                    "url": "https://api.github.com/repos/gppackagist/publishpress-revisions-pro/zipball/c164260d5be89ce822d30fabeb947d5718b1e357",
+                    "reference": "c164260d5be89ce822d30fabeb947d5718b1e357",
                     "shasum": ""
                 },
-                "time": "2026-10-16T08:57:09+00:00",
+                "time": "2026-11-03T11:49:08+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "PublishPress Revisions Pro",
                 "homepage": "https://publishpress.com/revisionary/",
                 "support": {
-                    "source": "https://github.com/gppackagist/publishpress-revisions-pro/tree/4.2.0",
+                    "source": "https://github.com/gppackagist/publishpress-revisions-pro/tree/4.3.1",
                     "issues": "https://github.com/gppackagist/publishpress-revisions-pro/issues"
                 }
             }

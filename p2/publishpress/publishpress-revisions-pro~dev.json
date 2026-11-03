@@ -32,21 +32,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/publishpress-revisions-pro.git",
-                    "reference": "ec4e224e0a5edb3c58f39ce5707be757c5c1c7c8"
+                    "reference": "c164260d5be89ce822d30fabeb947d5718b1e357"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/publishpress-revisions-pro/zipball/ec4e224e0a5edb3c58f39ce5707be757c5c1c7c8",
-                    "reference": "ec4e224e0a5edb3c58f39ce5707be757c5c1c7c8",
+                    "url": "https://api.github.com/repos/gppackagist/publishpress-revisions-pro/zipball/c164260d5be89ce822d30fabeb947d5718b1e357",
+                    "reference": "c164260d5be89ce822d30fabeb947d5718b1e357",
                     "shasum": ""
                 },
-                "time": "2026-10-16T08:57:09+00:00",
+                "time": "2026-11-03T11:49:08+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "PublishPress Revisions Pro",
                 "homepage": "https://publishpress.com/revisionary/",
                 "support": {
-                    "source": "https://github.com/gppackagist/publishpress-revisions-pro/tree/4.2.0",
+                    "source": "https://github.com/gppackagist/publishpress-revisions-pro/tree/4.3.1",
                     "issues": "https://github.com/gppackagist/publishpress-revisions-pro/issues"
                 }
             }
