@@ -4942,6 +4942,30 @@
                     "issues": "https://github.com/gppackagist/publishpress-revisions-pro/issues"
                 }
             },
+            "4.3.2": {
+                "name": "publishpress/publishpress-revisions-pro",
+                "version": "4.3.2",
+                "version_normalized": "4.3.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/publishpress-revisions-pro.git",
+                    "reference": "eff0bd39ff3fd3ec8360e9d1b6a7d5dcde46eb6e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/publishpress-revisions-pro/zipball/eff0bd39ff3fd3ec8360e9d1b6a7d5dcde46eb6e",
+                    "reference": "eff0bd39ff3fd3ec8360e9d1b6a7d5dcde46eb6e",
+                    "shasum": ""
+                },
+                "time": "2026-11-04T11:59:59+00:00",
+                "type": "wordpress-plugin",
+                "description": "PublishPress Revisions Pro",
+                "homepage": "https://publishpress.com/revisionary/",
+                "support": {
+                    "source": "https://github.com/gppackagist/publishpress-revisions-pro/tree/4.3.2",
+                    "issues": "https://github.com/gppackagist/publishpress-revisions-pro/issues"
+                }
+            },
             "dev-dependabot/github_actions/actions/create-github-app-token-3.3.0": {
                 "name": "publishpress/publishpress-revisions-pro",
                 "version": "dev-dependabot/github_actions/actions/create-github-app-token-3.3.0",
@@ -4973,21 +4997,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/publishpress-revisions-pro.git",
-                    "reference": "c164260d5be89ce822d30fabeb947d5718b1e357"
+                    "reference": "eff0bd39ff3fd3ec8360e9d1b6a7d5dcde46eb6e"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/publishpress-revisions-pro/zipball/c164260d5be89ce822d30fabeb947d5718b1e357",
-                    "reference": "c164260d5be89ce822d30fabeb947d5718b1e357",
+                    "url": "https://api.github.com/repos/gppackagist/publishpress-revisions-pro/zipball/eff0bd39ff3fd3ec8360e9d1b6a7d5dcde46eb6e",
+                    "reference": "eff0bd39ff3fd3ec8360e9d1b6a7d5dcde46eb6e",
                     "shasum": ""
                 },
-                "time": "2026-11-03T11:49:08+00:00",
+                "time": "2026-11-04T11:59:59+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "PublishPress Revisions Pro",
                 "homepage": "https://publishpress.com/revisionary/",
                 "support": {
-                    "source": "https://github.com/gppackagist/publishpress-revisions-pro/tree/4.3.1",
+                    "source": "https://github.com/gppackagist/publishpress-revisions-pro/tree/4.3.2",
                     "issues": "https://github.com/gppackagist/publishpress-revisions-pro/issues"
                 }
             }
