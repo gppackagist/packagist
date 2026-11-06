@@ -4033,6 +4033,28 @@
                     "issues": "https://github.com/gppackagist/gravityforms/issues"
                 }
             },
+            "3.2.2": {
+                "name": "gppackagist/gravityforms",
+                "version": "3.2.2",
+                "version_normalized": "3.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/gravityforms.git",
+                    "reference": "c0c2c7d0831546473ef9f26bd33294e02db4ea80"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/gravityforms/zipball/c0c2c7d0831546473ef9f26bd33294e02db4ea80",
+                    "reference": "c0c2c7d0831546473ef9f26bd33294e02db4ea80",
+                    "shasum": ""
+                },
+                "time": "2026-11-06T11:59:36+00:00",
+                "type": "wordpress-plugin",
+                "support": {
+                    "source": "https://github.com/gppackagist/gravityforms/tree/3.2.2",
+                    "issues": "https://github.com/gppackagist/gravityforms/issues"
+                }
+            },
             "dev-dependabot/github_actions/actions/create-github-app-token-3.3.0": {
                 "name": "gppackagist/gravityforms",
                 "version": "dev-dependabot/github_actions/actions/create-github-app-token-3.3.0",
@@ -4062,19 +4084,19 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/gravityforms.git",
-                    "reference": "195f3271d914619f3037b027a8674bd823c1550e"
+                    "reference": "c0c2c7d0831546473ef9f26bd33294e02db4ea80"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/gravityforms/zipball/195f3271d914619f3037b027a8674bd823c1550e",
-                    "reference": "195f3271d914619f3037b027a8674bd823c1550e",
+                    "url": "https://api.github.com/repos/gppackagist/gravityforms/zipball/c0c2c7d0831546473ef9f26bd33294e02db4ea80",
+                    "reference": "c0c2c7d0831546473ef9f26bd33294e02db4ea80",
                     "shasum": ""
                 },
-                "time": "2026-10-29T10:50:02+00:00",
+                "time": "2026-11-06T11:59:36+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "support": {
-                    "source": "https://github.com/gppackagist/gravityforms/tree/3.2.1",
+                    "source": "https://github.com/gppackagist/gravityforms/tree/3.2.2",
                     "issues": "https://github.com/gppackagist/gravityforms/issues"
                 }
             }
@@ -4722,6 +4744,30 @@
                     "issues": "https://github.com/gppackagist/wpml-string-translation/issues"
                 }
             },
+            "5.3.0": {
+                "name": "gppackagist/wpml-string-translation",
+                "version": "5.3.0",
+                "version_normalized": "5.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/wpml-string-translation.git",
+                    "reference": "595f547082e86720d5d63ba0d0e8ff26392f99c8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/wpml-string-translation/zipball/595f547082e86720d5d63ba0d0e8ff26392f99c8",
+                    "reference": "595f547082e86720d5d63ba0d0e8ff26392f99c8",
+                    "shasum": ""
+                },
+                "time": "2026-11-06T12:00:09+00:00",
+                "type": "wordpress-plugin",
+                "description": "WPML String Translation",
+                "homepage": "https://wpml.org/",
+                "support": {
+                    "source": "https://github.com/gppackagist/wpml-string-translation/tree/5.3.0",
+                    "issues": "https://github.com/gppackagist/wpml-string-translation/issues"
+                }
+            },
             "dev-dependabot/github_actions/actions/create-github-app-token-3.3.0": {
                 "name": "gppackagist/wpml-string-translation",
                 "version": "dev-dependabot/github_actions/actions/create-github-app-token-3.3.0",
@@ -4753,21 +4799,21 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/wpml-string-translation.git",
-                    "reference": "ced2d844e90187c9ff9a108878d29945c0659f5b"
+                    "reference": "595f547082e86720d5d63ba0d0e8ff26392f99c8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/wpml-string-translation/zipball/ced2d844e90187c9ff9a108878d29945c0659f5b",
-                    "reference": "ced2d844e90187c9ff9a108878d29945c0659f5b",
+                    "url": "https://api.github.com/repos/gppackagist/wpml-string-translation/zipball/595f547082e86720d5d63ba0d0e8ff26392f99c8",
+                    "reference": "595f547082e86720d5d63ba0d0e8ff26392f99c8",
                     "shasum": ""
                 },
-                "time": "2026-10-21T09:19:04+00:00",
+                "time": "2026-11-06T12:00:09+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "WPML String Translation",
                 "homepage": "https://wpml.org/",
                 "support": {
-                    "source": "https://github.com/gppackagist/wpml-string-translation/tree/5.2.0",
+                    "source": "https://github.com/gppackagist/wpml-string-translation/tree/5.3.0",
                     "issues": "https://github.com/gppackagist/wpml-string-translation/issues"
                 }
             }
