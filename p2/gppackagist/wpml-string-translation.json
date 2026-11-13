@@ -23,7 +23,8 @@
                 "support": {
                     "source": "https://github.com/gppackagist/wpml-string-translation/tree/5.1.0",
                     "issues": "https://github.com/gppackagist/wpml-string-translation/issues"
-                }
+                },
+                "published-time": "2026-11-13T12:07:41+00:00"
             },
             {
                 "name": "gppackagist/wpml-string-translation",
@@ -47,7 +48,8 @@
                 "support": {
                     "source": "https://github.com/gppackagist/wpml-string-translation/tree/5.2.0",
                     "issues": "https://github.com/gppackagist/wpml-string-translation/issues"
-                }
+                },
+                "published-time": "2026-11-13T12:07:41+00:00"
             },
             {
                 "name": "gppackagist/wpml-string-translation",
@@ -71,7 +73,8 @@
                 "support": {
                     "source": "https://github.com/gppackagist/wpml-string-translation/tree/5.3.0",
                     "issues": "https://github.com/gppackagist/wpml-string-translation/issues"
-                }
+                },
+                "published-time": "2026-11-13T12:07:41+00:00"
             }
         ]
     }

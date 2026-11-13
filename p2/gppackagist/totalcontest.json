@@ -23,7 +23,8 @@
                 "support": {
                     "source": "https://github.com/gppackagist/totalcontest/tree/2.9.1",
                     "issues": "https://github.com/gppackagist/totalcontest/issues"
-                }
+                },
+                "published-time": "2026-11-13T12:07:41+00:00"
             }
         ]
     }

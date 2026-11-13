@@ -20,7 +20,8 @@
                 "type": "wordpress-plugin",
                 "support": {
                     "source": "https://github.com/gppackagist/gravityformswebhooks/tree/1.5"
-                }
+                },
+                "published-time": "2026-11-13T12:07:41+00:00"
             },
             {
                 "name": "gppackagist/gravityformswebhooks",
@@ -41,7 +42,8 @@
                 "type": "wordpress-plugin",
                 "support": {
                     "source": "https://github.com/gppackagist/gravityformswebhooks/tree/1.6.0"
-                }
+                },
+                "published-time": "2026-11-13T12:07:41+00:00"
             },
             {
                 "name": "gppackagist/gravityformswebhooks",
@@ -62,7 +64,8 @@
                 "type": "wordpress-plugin",
                 "support": {
                     "source": "https://github.com/gppackagist/gravityformswebhooks/tree/1.7.0"
-                }
+                },
+                "published-time": "2026-11-13T12:07:41+00:00"
             }
         ]
     }

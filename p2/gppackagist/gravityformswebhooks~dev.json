@@ -20,7 +20,8 @@
                 "type": "wordpress-plugin",
                 "support": {
                     "source": "https://github.com/gppackagist/gravityformswebhooks/tree/dependabot/github_actions/actions/create-github-app-token-3.3.0"
-                }
+                },
+                "published-time": "2026-11-13T12:07:41+00:00"
             },
             {
                 "name": "gppackagist/gravityformswebhooks",
@@ -41,7 +42,8 @@
                 "type": "wordpress-plugin",
                 "support": {
                     "source": "https://github.com/gppackagist/gravityformswebhooks/tree/dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/gravityforms-update.yml-1.1.0"
-                }
+                },
+                "published-time": "2026-11-13T12:07:41+00:00"
             },
             {
                 "name": "gppackagist/gravityformswebhooks",
@@ -63,7 +65,8 @@
                 "type": "wordpress-plugin",
                 "support": {
                     "source": "https://github.com/gppackagist/gravityformswebhooks/tree/main"
-                }
+                },
+                "published-time": "2026-11-13T12:07:41+00:00"
             }
         ]
     }
