@@ -3,6 +3,31 @@
         "gppackagist/wpml-string-translation": [
             {
                 "name": "gppackagist/wpml-string-translation",
+                "version": "dev-claude/pin-v1.1.1",
+                "version_normalized": "dev-claude/pin-v1.1.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:gppackagist/wpml-string-translation.git",
+                    "reference": "ccbad34a2413a5643763265ffb7e2fcf8ac8b08c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/gppackagist/wpml-string-translation/zipball/ccbad34a2413a5643763265ffb7e2fcf8ac8b08c",
+                    "reference": "ccbad34a2413a5643763265ffb7e2fcf8ac8b08c",
+                    "shasum": ""
+                },
+                "time": "2026-11-16T15:58:40+00:00",
+                "type": "wordpress-plugin",
+                "description": "WPML String Translation",
+                "homepage": "https://wpml.org/",
+                "support": {
+                    "source": "https://github.com/gppackagist/wpml-string-translation/tree/claude/pin-v1.1.1",
+                    "issues": "https://github.com/gppackagist/wpml-string-translation/issues"
+                },
+                "published-time": "2026-11-18T12:56:23+00:00"
+            },
+            {
+                "name": "gppackagist/wpml-string-translation",
                 "version": "dev-dependabot/github_actions/actions/create-github-app-token-3.3.0",
                 "version_normalized": "dev-dependabot/github_actions/actions/create-github-app-token-3.3.0",
                 "source": {
@@ -24,7 +49,7 @@
                     "source": "https://github.com/gppackagist/wpml-string-translation/tree/dependabot/github_actions/actions/create-github-app-token-3.3.0",
                     "issues": "https://github.com/gppackagist/wpml-string-translation/issues"
                 },
-                "published-time": "2026-11-16T15:29:59+00:00"
+                "published-time": "2026-11-18T12:56:23+00:00"
             },
             {
                 "name": "gppackagist/wpml-string-translation",
@@ -33,24 +58,24 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:gppackagist/wpml-string-translation.git",
-                    "reference": "595f547082e86720d5d63ba0d0e8ff26392f99c8"
+                    "reference": "dbe0def3bc7cb930339870c196e6059bc6d1add0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/gppackagist/wpml-string-translation/zipball/595f547082e86720d5d63ba0d0e8ff26392f99c8",
-                    "reference": "595f547082e86720d5d63ba0d0e8ff26392f99c8",
+                    "url": "https://api.github.com/repos/gppackagist/wpml-string-translation/zipball/dbe0def3bc7cb930339870c196e6059bc6d1add0",
+                    "reference": "dbe0def3bc7cb930339870c196e6059bc6d1add0",
                     "shasum": ""
                 },
-                "time": "2026-11-06T12:00:09+00:00",
+                "time": "2026-11-16T16:22:23+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "description": "WPML String Translation",
                 "homepage": "https://wpml.org/",
                 "support": {
-                    "source": "https://github.com/gppackagist/wpml-string-translation/tree/5.3.0",
+                    "source": "https://github.com/gppackagist/wpml-string-translation/tree/main",
                     "issues": "https://github.com/gppackagist/wpml-string-translation/issues"
                 },
-                "published-time": "2026-11-16T15:29:59+00:00"
+                "published-time": "2026-11-18T12:56:23+00:00"
             }
         ]
     }
