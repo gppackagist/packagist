@@ -21,7 +21,7 @@
                 "support": {
                     "source": "https://github.com/gppackagist/gravityformswebhooks/tree/dependabot/github_actions/actions/create-github-app-token-3.3.0"
                 },
-                "published-time": "2026-11-18T12:57:14+00:00"
+                "published-time": "2026-11-19T12:48:57+00:00"
             },
             {
                 "name": "gppackagist/gravityformswebhooks",
@@ -43,7 +43,7 @@
                 "support": {
                     "source": "https://github.com/gppackagist/gravityformswebhooks/tree/dependabot/github_actions/gppackagist/github-action-update-plugins/dot-github/workflows/gravityforms-update.yml-1.1.0"
                 },
-                "published-time": "2026-11-18T12:57:14+00:00"
+                "published-time": "2026-11-19T12:48:57+00:00"
             },
             {
                 "name": "gppackagist/gravityformswebhooks",
@@ -66,7 +66,7 @@
                 "support": {
                     "source": "https://github.com/gppackagist/gravityformswebhooks/tree/main"
                 },
-                "published-time": "2026-11-18T12:57:14+00:00"
+                "published-time": "2026-11-19T12:48:57+00:00"
             }
         ]
     }
