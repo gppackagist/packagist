@@ -24,7 +24,7 @@
                     "source": "https://github.com/gppackagist/totalcontest/tree/dependabot/github_actions/actions/create-github-app-token-3.3.0",
                     "issues": "https://github.com/gppackagist/totalcontest/issues"
                 },
-                "published-time": "2026-11-19T12:48:57+00:00"
+                "published-time": "2026-11-20T12:44:50+00:00"
             },
             {
                 "name": "gppackagist/totalcontest",
@@ -50,7 +50,7 @@
                     "source": "https://github.com/gppackagist/totalcontest/tree/main",
                     "issues": "https://github.com/gppackagist/totalcontest/issues"
                 },
-                "published-time": "2026-11-19T12:48:57+00:00"
+                "published-time": "2026-11-20T12:44:50+00:00"
             }
         ]
     }
